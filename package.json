@@ -1,0 +1,26 @@
+{
+  "name": "map-context-repl",
+  "version": "1.0.0",
+  "description": "repl to convert stuff",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc --outDir dist",
+    "tslint": "tslint -t verbose './src/**/*.ts'"
+  },
+  "author": "Alex K <allixender@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/geojson": "^7946.0.4",
+    "ts-node": "^5.0.0",
+    "tslint": "^5.11.0",
+    "typescript": "^2.9.2"
+  },
+  "dependencies": {
+    "@mapbox/geojsonhint": "^2.1.0",
+    "@types/uuid": "^3.4.3",
+    "fs": "0.0.1-security",
+    "geojson": "^0.5.0",
+    "uuid": "^3.3.2"
+  }
+}

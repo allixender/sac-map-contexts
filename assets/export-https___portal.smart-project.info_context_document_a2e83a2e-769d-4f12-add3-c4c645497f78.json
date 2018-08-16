@@ -1,0 +1,198 @@
+{
+ "type": "FeatureCollection",
+ "id": "https://portal.smart-project.info/context/document/a2e83a2e-769d-4f12-add3-c4c645497f78",
+ "properties": {
+  "links": {
+   "profiles": [
+    {
+     "href": "http://www.opengis.net/spec/owc-geojson/1.0/req/core",
+     "rel": "profile",
+     "uuid": "faae0498-1dbd-49d8-b981-85d4b0c4819b"
+    }
+   ],
+   "via": []
+  },
+  "lang": "en",
+  "title": "I need a new collection",
+  "subtitle": "test abstract and bla",
+  "updated": "2018-02-16T04:14:56.884Z",
+  "authors": [
+   {
+    "name": "Allixender ",
+    "email": "allixender@gmail.com",
+    "uuid": "a8ad98af-4150-489e-984a-dce935e7f9f3"
+   }
+  ],
+  "publisher": "GNS Science",
+  "rights": "CC BY SA 4.0 NZ",
+  "categories": []
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "id": "https://portal.smart-project.info/context/resource/da0edce4-4c89-4e04-a94f-8cb66e4c5dbe",
+   "properties": {
+    "title": "Compilation of aquifer test data for sites in the National Groundwater Monitoring Programme",
+    "abstract": "GNS Science (GNS) is currently in charge of the continuation and expansion of the National Groundwater Monitoring Programme (NGMP), which is operated in collaboration with regional authorities across all of New Zealand. One of the science tasks associated with the NGMP is to delineate the groundwater capture zone at each NGMP site. Delineation of capture zones requires some information about the hydraulic properties of aquifers, typically obtained by aquifer tests. As part of its contribution to the NGMP, GNS has recently completed an update of its groundwater database to include available aquifer test data from NGMP wells and other wells within each region, based on data requested and received from regional authorities. All of the aquifer test data were compiled in a consistent format in a single spreadsheet, then loaded into the GNS groundwater database. This report summarises the data collected and documents the compilation procedure followed. ",
+    "updated": "2017-11-23T00:00:00Z",
+    "authors": [
+     {
+      "name": "Meilhac, C.; Minni, G.; Cameron, S.G., Maggy Dyer",
+      "email": "webmaster@gns.scri.nz",
+      "uuid": "312f74dc-c2ad-421b-b0e5-0379b5d4e6a9"
+     }
+    ],
+    "rights": "Institute of Geological and Nuclear Sciences Limited (GNS Science), ",
+    "links": {
+     "alternates": [
+      {
+       "href": "https://shop.gns.cri.nz/sr_2009-19-pdf/",
+       "type": "text/html",
+       "title": "Compilation of aquifer test data for sites in the National Groundwater Monitoring Programme",
+       "rel": "alternate",
+       "uuid": "4656a175-2f3c-4a9a-957c-1c0a505a9e3e"
+      }
+     ],
+     "previews": [],
+     "data": [],
+     "via": []
+    },
+    "offerings": [
+     {
+      "code": "http://www.opengis.net/spec/owc-geojson/1.0/req/csw",
+      "operations": [
+       {
+        "code": "GetCapabilities",
+        "method": "GET",
+        "type": "application/xml",
+        "href": "https://portal.smart-project.info/journalcsw/journalcsw?request=GetCapabilities&service=CSW",
+        "uuid": "48b92db6-c44c-4e7f-b396-1306df6ea730"
+       },
+       {
+        "code": "GetRecordById",
+        "method": "GET",
+        "type": "application/xml",
+        "href": "https://portal.smart-project.info/journalcsw/journalcsw?request=GetRecordById&version=2.0.2&service=CSW&elementSetName=full&outputSchema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&Id=b9da1c65-4648-49ce-91f0-76d17efd8c31",
+        "uuid": "8683ca5c-5fbe-4335-8f63-3cc5a3019a92"
+       }
+      ],
+      "contents": [],
+      "styles": [],
+      "uuid": "f434d77b-16b2-4ff8-a2dd-a2207fb24e6f"
+     }
+    ],
+    "categories": []
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       165.3906,
+       -47.93848
+      ],
+      [
+       165.3906,
+       -34.02613
+      ],
+      [
+       178.73954,
+       -34.02613
+      ],
+      [
+       178.73954,
+       -47.93848
+      ],
+      [
+       165.3906,
+       -47.93848
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "https://portal.smart-project.info/context/resource/9d5fb95c-86bd-46f9-94a7-06f6c3c48f51",
+   "properties": {
+    "title": "A distributed hydrological model based on the concept of groundwater recharge, transmission, and discharge",
+    "abstract": "A conceptual model is proposed which is distributed on the basis of groundwater flow systems. The fundamental unit of the model is a vertical section in which four groundwater regions are distinguished: a recharge region. a transmission region. a discharge region and a bank storage region. Each region is subdivided into a groundwater zone and a soil moisture zone. The storage and transmission equations are formulated, and a procedure is outlined for routing precipitation through the model.",
+    "updated": "2017-08-23T00:00:00Z",
+    "authors": [
+     {
+      "name": "Lawson, D.W. , Lawson, D.W.",
+      "email": "admin@hydrologynz.org.nz",
+      "uuid": "bedebbaf-612a-4a5c-920f-1ecc4e1dfaf6"
+     }
+    ],
+    "rights": "New Zealand Hydrological Society - Journal of Hydrology (New Zealand) (ISSN 0022-1708), ",
+    "links": {
+     "alternates": [
+      {
+       "href": "http://hydrologynz.co.nz/journal.php?article_id=492",
+       "type": "text/html",
+       "title": "A distributed hydrological model based on the concept of groundwater recharge, transmission, and discharge",
+       "rel": "alternate",
+       "uuid": "be97efbf-785e-4813-b786-bf225060160c"
+      }
+     ],
+     "previews": [],
+     "data": [],
+     "via": []
+    },
+    "offerings": [
+     {
+      "code": "http://www.opengis.net/spec/owc-geojson/1.0/req/csw",
+      "operations": [
+       {
+        "code": "GetCapabilities",
+        "method": "GET",
+        "type": "application/xml",
+        "href": "https://portal.smart-project.info/journalcsw/journalcsw?request=GetCapabilities&service=CSW",
+        "uuid": "73da057a-2bad-499a-9e4f-5633d11e4fc9"
+       },
+       {
+        "code": "GetRecordById",
+        "method": "GET",
+        "type": "application/xml",
+        "href": "https://portal.smart-project.info/journalcsw/journalcsw?request=GetRecordById&version=2.0.2&service=CSW&elementSetName=full&outputSchema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&Id=cddbe916-d476-4c0b-9c6f-4e52d9727d76",
+        "uuid": "2c665a59-e351-4d33-8449-5494f7c4d432"
+       }
+      ],
+      "contents": [],
+      "styles": [],
+      "uuid": "0da23024-7af6-4ac9-8d4f-2b1b8a97372f"
+     }
+    ],
+    "categories": []
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       165.3906,
+       -47.93848
+      ],
+      [
+       165.3906,
+       -34.02613
+      ],
+      [
+       178.73954,
+       -34.02613
+      ],
+      [
+       178.73954,
+       -47.93848
+      ],
+      [
+       165.3906,
+       -47.93848
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}
