@@ -1,1 +1,2108 @@
-{"type":"FeatureCollection","id":"https://nz-groundwater-hub.org/context/document/dcdd6a6d-9261-4a36-ab13-f94037b12548","bbox":[176.1,-38.11,176.3,-37.97],"properties":{"links":{"profiles":[{"href":"http://www.opengis.net/spec/owc-geojson/1.0/req/core","rel":"profile"}],"via":[{"href":"https://nz-groundwater-hub.org/context/document/dcdd6a6d-9261-4a36-ab13-f94037b12548","rel":"via"}]},"lang":"en","title":"Awahou Catchment","subtitle":"Awahou Catchment Informative Layers","updated":"2018-02-16T04:14:56.884Z","generator":{"title":"Groundwater Hub"},"authors":[{"name":"Alex Kmoch","email":"allixender@gmail.com","uri":"https://nz-groundwater-hub.org"}],"publisher":"GNS Science","rights":"CC BY SA 4.0 NZ","categories":[{"scheme":"view-groups","term":"awa","label":"Awahou Catchment"}]},"features":[{"type":"Feature","id":"https://nz-groundwater-hub.org/context/resource/f54f6791-1f1d-4753-93b7-78ba535aebce","geometry":{"type":"Polygon","coordinates":[[[176.1,-38.11],[176.3,-38.11],[176.3,-37.97],[176.1,-37.97],[176.1,-38.11]]]},"properties":{"title":"horowhenua_ws:Rotorua_subcatchments","abstract":"Lake Rotorua Sub Catchments (June 2014)","updated":"2018-02-16T04:14:56.884Z","authors":[{"name":"Alex Kmoch","email":"allixender@gmail.com","uri":"https://nz-groundwater-hub.org"}],"publisher":"GNS Science","rights":"CC BY SA 4.0 NZ","links":{"alternates":[],"previews":[{"href":"https://portal.smart-project.info/fs/images/nz_m.png","type":"image/png","rel":"icon"},{"href":"https://portal.smart-project.info/geoserver/wms?REQUEST=GetLegendGraphic&VERSION=1.0.0&FORMAT=image/png&WIDTH=20&HEIGHT=20&LAYER=horowhenua_ws:Rotorua_subcatchments","type":"image/png","rel":"icon"}],"data":[{"href":"https://portal.smart-project.info/geoserver/wms","type":"application/xml","title":"Lake Rotorua Sub Catchments (June 2014):horowhenua_ws:Rotorua_subcatchments"}],"via":[{"href":"https://nz-groundwater-hub.org/context/resource/f54f6791-1f1d-4753-93b7-78ba535aebce","rel":"via"}]},"offerings":[{"code":"http://www.opengis.net/spec/owc-geojson/1.0/req/wms","operations":[{"code":"GetCapabilities","method":"GET","type":"application/xml","href":"https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities"},{"code":"GetMap","method":"GET","type":"image/png","href":"https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3&REQUEST=GetMap&SRS=EPSG:4326&BBOX=176.1,-38.11,176.3,-37.97&WIDTH=800&HEIGHT=600&LAYERS=horowhenua_ws:Rotorua_subcatchments&FORMAT=image/png&TRANSPARENT=TRUE&EXCEPTIONS=application/vnd.ogc.se_xml"}],"contents":[],"styles":[]},{"code":"http://www.opengis.net/spec/owc-geojson/1.0/req/csw","operations":[{"code":"GetCapabilities","method":"GET","type":"application/xml","href":"https://nz-groundwater-hub.org/pycsw/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities"},{"code":"GetRecordById","method":"POST","type":"application/xml","href":"https://portal.smart-project.info/journalcsw/journalcsw?request=GetRecordById&version=2.0.2&service=CSW&elementSetName=full&outputSchema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&Id="}],"contents":[]}],"categories":[{"scheme":"view-groups","term":"awa_catch","label":"Awahou Catchment"}],"active":false,"folder":"awa_catch"}},{"type":"Feature","id":"https://nz-groundwater-hub.org/context/resource/141d099e-7d67-46fa-9518-fc8607b9611c","geometry":{"type":"Polygon","coordinates":[[[176.1,-38.11],[176.3,-38.11],[176.3,-37.97],[176.1,-37.97],[176.1,-38.11]]]},"properties":{"title":"horowhenua_ws:QMAP_clips","abstract":"QMAP geology, clipped","updated":"2018-02-16T04:14:56.884Z","authors":[{"name":"Alex Kmoch","email":"allixender@gmail.com","uri":"https://nz-groundwater-hub.org"}],"publisher":"GNS Science","rights":"CC BY SA 4.0 NZ","links":{"alternates":[],"previews":[{"href":"https://portal.smart-project.info/fs/images/nz_m.png","type":"image/png","rel":"icon"},{"href":"https://portal.smart-project.info/geoserver/wms?REQUEST=GetLegendGraphic&VERSION=1.0.0&FORMAT=image/png&WIDTH=20&HEIGHT=20&LAYER=horowhenua_ws:QMAP_clips","type":"image/png","rel":"icon"}],"data":[{"href":"https://portal.smart-project.info/geoserver/wms","type":"application/xml","title":"QMAP geology, clipped:horowhenua_ws:QMAP_clips"}],"via":[{"href":"https://nz-groundwater-hub.org/context/resource/141d099e-7d67-46fa-9518-fc8607b9611c","rel":"via"}]},"offerings":[{"code":"http://www.opengis.net/spec/owc-geojson/1.0/req/wms","operations":[{"code":"GetCapabilities","method":"GET","type":"application/xml","href":"https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities"},{"code":"GetMap","method":"GET","type":"image/png","href":"https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3&REQUEST=GetMap&SRS=EPSG:4326&BBOX=176.1,-38.11,176.3,-37.97&WIDTH=800&HEIGHT=600&LAYERS=horowhenua_ws:QMAP_clips&FORMAT=image/png&TRANSPARENT=TRUE&EXCEPTIONS=application/vnd.ogc.se_xml"}],"contents":[],"styles":[]},{"code":"http://www.opengis.net/spec/owc-geojson/1.0/req/csw","operations":[{"code":"GetCapabilities","method":"GET","type":"application/xml","href":"https://nz-groundwater-hub.org/pycsw/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities"},{"code":"GetRecordById","method":"POST","type":"application/xml","href":"https://portal.smart-project.info/journalcsw/journalcsw?request=GetRecordById&version=2.0.2&service=CSW&elementSetName=full&outputSchema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&Id="}],"contents":[]}],"categories":[{"scheme":"view-groups","term":"awa_catch","label":"Awahou Catchment"}],"active":false,"folder":"awa_catch"}},{"type":"Feature","id":"https://nz-groundwater-hub.org/context/resource/25732fa1-b3a3-4448-9bc5-a684a975882e","geometry":{"type":"Polygon","coordinates":[[[176.1,-38.11],[176.3,-38.11],[176.3,-37.97],[176.1,-37.97],[176.1,-38.11]]]},"properties":{"title":"horowhenua_ws:AwahouCatchment","abstract":"Awahou Stream Catchment (June 2014)","updated":"2018-02-16T04:14:56.884Z","authors":[{"name":"Alex Kmoch","email":"allixender@gmail.com","uri":"https://nz-groundwater-hub.org"}],"publisher":"GNS Science","rights":"CC BY SA 4.0 NZ","links":{"alternates":[],"previews":[{"href":"https://portal.smart-project.info/fs/images/nz_m.png","type":"image/png","rel":"icon"},{"href":"https://portal.smart-project.info/geoserver/wms?REQUEST=GetLegendGraphic&VERSION=1.0.0&FORMAT=image/png&WIDTH=20&HEIGHT=20&LAYER=horowhenua_ws:AwahouCatchment","type":"image/png","rel":"icon"}],"data":[{"href":"https://portal.smart-project.info/geoserver/wms","type":"application/xml","title":"Awahou Stream Catchment (June 2014):horowhenua_ws:AwahouCatchment"}],"via":[{"href":"https://nz-groundwater-hub.org/context/resource/25732fa1-b3a3-4448-9bc5-a684a975882e","rel":"via"}]},"offerings":[{"code":"http://www.opengis.net/spec/owc-geojson/1.0/req/wms","operations":[{"code":"GetCapabilities","method":"GET","type":"application/xml","href":"https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities"},{"code":"GetMap","method":"GET","type":"image/png","href":"https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3&REQUEST=GetMap&SRS=EPSG:4326&BBOX=176.1,-38.11,176.3,-37.97&WIDTH=800&HEIGHT=600&LAYERS=horowhenua_ws:AwahouCatchment&FORMAT=image/png&TRANSPARENT=TRUE&EXCEPTIONS=application/vnd.ogc.se_xml"}],"contents":[],"styles":[]},{"code":"http://www.opengis.net/spec/owc-geojson/1.0/req/csw","operations":[{"code":"GetCapabilities","method":"GET","type":"application/xml","href":"https://nz-groundwater-hub.org/pycsw/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities"},{"code":"GetRecordById","method":"POST","type":"application/xml","href":"https://portal.smart-project.info/journalcsw/journalcsw?request=GetRecordById&version=2.0.2&service=CSW&elementSetName=full&outputSchema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&Id="}],"contents":[]}],"categories":[{"scheme":"view-groups","term":"awa_catch","label":"Awahou Catchment"}],"active":false,"folder":"awa_catch"}},{"type":"Feature","id":"https://nz-groundwater-hub.org/context/resource/4e488981-4c2a-432f-be21-ca34739e7bdf","geometry":{"type":"Polygon","coordinates":[[[176.1,-38.11],[176.3,-38.11],[176.3,-37.97],[176.1,-37.97],[176.1,-38.11]]]},"properties":{"title":"horowhenua_ws:GW_Awahou_1_10000_9_June_2014","abstract":"Awahou Groundwater Catchment (June 2014)","updated":"2018-02-16T04:14:56.884Z","authors":[{"name":"Alex Kmoch","email":"allixender@gmail.com","uri":"https://nz-groundwater-hub.org"}],"publisher":"GNS Science","rights":"CC BY SA 4.0 NZ","links":{"alternates":[],"previews":[{"href":"https://portal.smart-project.info/fs/images/nz_m.png","type":"image/png","rel":"icon"},{"href":"https://portal.smart-project.info/geoserver/wms?REQUEST=GetLegendGraphic&VERSION=1.0.0&FORMAT=image/png&WIDTH=20&HEIGHT=20&LAYER=horowhenua_ws:GW_Awahou_1_10000_9_June_2014","type":"image/png","rel":"icon"}],"data":[{"href":"https://portal.smart-project.info/geoserver/wms","type":"application/xml","title":"Awahou Groundwater Catchment (June 2014):horowhenua_ws:GW_Awahou_1_10000_9_June_2014"}],"via":[{"href":"https://nz-groundwater-hub.org/context/resource/4e488981-4c2a-432f-be21-ca34739e7bdf","rel":"via"}]},"offerings":[{"code":"http://www.opengis.net/spec/owc-geojson/1.0/req/wms","operations":[{"code":"GetCapabilities","method":"GET","type":"application/xml","href":"https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities"},{"code":"GetMap","method":"GET","type":"image/png","href":"https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3&REQUEST=GetMap&SRS=EPSG:4326&BBOX=176.1,-38.11,176.3,-37.97&WIDTH=800&HEIGHT=600&LAYERS=horowhenua_ws:GW_Awahou_1_10000_9_June_2014&FORMAT=image/png&TRANSPARENT=TRUE&EXCEPTIONS=application/vnd.ogc.se_xml"}],"contents":[],"styles":[]},{"code":"http://www.opengis.net/spec/owc-geojson/1.0/req/csw","operations":[{"code":"GetCapabilities","method":"GET","type":"application/xml","href":"https://nz-groundwater-hub.org/pycsw/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities"},{"code":"GetRecordById","method":"POST","type":"application/xml","href":"https://portal.smart-project.info/journalcsw/journalcsw?request=GetRecordById&version=2.0.2&service=CSW&elementSetName=full&outputSchema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&Id="}],"contents":[]}],"categories":[{"scheme":"view-groups","term":"awa_catch","label":"Awahou Catchment"}],"active":true,"folder":"awa_catch"}},{"type":"Feature","id":"https://nz-groundwater-hub.org/context/resource/ab83bb63-02d3-4f07-9f71-8523886585fa","geometry":{"type":"Polygon","coordinates":[[[176.1,-38.11],[176.3,-38.11],[176.3,-37.97],[176.1,-37.97],[176.1,-38.11]]]},"properties":{"title":"horowhenua_ws:Hamurana_Springs","abstract":"Hamurana Springs","updated":"2018-02-16T04:14:56.884Z","authors":[{"name":"Alex Kmoch","email":"allixender@gmail.com","uri":"https://nz-groundwater-hub.org"}],"publisher":"GNS Science","rights":"CC BY SA 4.0 NZ","links":{"alternates":[],"previews":[{"href":"https://portal.smart-project.info/fs/images/nz_m.png","type":"image/png","rel":"icon"},{"href":"https://portal.smart-project.info/geoserver/wms?REQUEST=GetLegendGraphic&VERSION=1.0.0&FORMAT=image/png&WIDTH=20&HEIGHT=20&LAYER=horowhenua_ws:Hamurana_Springs","type":"image/png","rel":"icon"}],"data":[{"href":"https://portal.smart-project.info/geoserver/wms","type":"application/xml","title":"Hamurana Springs:horowhenua_ws:Hamurana_Springs"}],"via":[{"href":"https://nz-groundwater-hub.org/context/resource/ab83bb63-02d3-4f07-9f71-8523886585fa","rel":"via"}]},"offerings":[{"code":"http://www.opengis.net/spec/owc-geojson/1.0/req/wms","operations":[{"code":"GetCapabilities","method":"GET","type":"application/xml","href":"https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities"},{"code":"GetMap","method":"GET","type":"image/png","href":"https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3&REQUEST=GetMap&SRS=EPSG:4326&BBOX=176.1,-38.11,176.3,-37.97&WIDTH=800&HEIGHT=600&LAYERS=horowhenua_ws:Hamurana_Springs&FORMAT=image/png&TRANSPARENT=TRUE&EXCEPTIONS=application/vnd.ogc.se_xml"}],"contents":[],"styles":[]},{"code":"http://www.opengis.net/spec/owc-geojson/1.0/req/csw","operations":[{"code":"GetCapabilities","method":"GET","type":"application/xml","href":"https://nz-groundwater-hub.org/pycsw/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities"},{"code":"GetRecordById","method":"POST","type":"application/xml","href":"https://portal.smart-project.info/journalcsw/journalcsw?request=GetRecordById&version=2.0.2&service=CSW&elementSetName=full&outputSchema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&Id="}],"contents":[]}],"categories":[{"scheme":"view-groups","term":"awa_catch","label":"Awahou Catchment"}],"active":true,"folder":"awa_catch"}},{"type":"Feature","id":"https://nz-groundwater-hub.org/context/resource/093f767c-5af9-4ae1-968e-c52e4fbad4d8","geometry":{"type":"Polygon","coordinates":[[[176.1,-38.11],[176.3,-38.11],[176.3,-37.97],[176.1,-37.97],[176.1,-38.11]]]},"properties":{"title":"horowhenua_ws:Taniwha_Spring","abstract":"Taniwha Springs","updated":"2018-02-16T04:14:56.884Z","authors":[{"name":"Alex Kmoch","email":"allixender@gmail.com","uri":"https://nz-groundwater-hub.org"}],"publisher":"GNS Science","rights":"CC BY SA 4.0 NZ","links":{"alternates":[],"previews":[{"href":"https://portal.smart-project.info/fs/images/nz_m.png","type":"image/png","rel":"icon"},{"href":"https://portal.smart-project.info/geoserver/wms?REQUEST=GetLegendGraphic&VERSION=1.0.0&FORMAT=image/png&WIDTH=20&HEIGHT=20&LAYER=horowhenua_ws:Taniwha_Spring","type":"image/png","rel":"icon"}],"data":[{"href":"https://portal.smart-project.info/geoserver/wms","type":"application/xml","title":"Taniwha Springs:horowhenua_ws:Taniwha_Spring"}],"via":[{"href":"https://nz-groundwater-hub.org/context/resource/093f767c-5af9-4ae1-968e-c52e4fbad4d8","rel":"via"}]},"offerings":[{"code":"http://www.opengis.net/spec/owc-geojson/1.0/req/wms","operations":[{"code":"GetCapabilities","method":"GET","type":"application/xml","href":"https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities"},{"code":"GetMap","method":"GET","type":"image/png","href":"https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3&REQUEST=GetMap&SRS=EPSG:4326&BBOX=176.1,-38.11,176.3,-37.97&WIDTH=800&HEIGHT=600&LAYERS=horowhenua_ws:Taniwha_Spring&FORMAT=image/png&TRANSPARENT=TRUE&EXCEPTIONS=application/vnd.ogc.se_xml"}],"contents":[],"styles":[]},{"code":"http://www.opengis.net/spec/owc-geojson/1.0/req/csw","operations":[{"code":"GetCapabilities","method":"GET","type":"application/xml","href":"https://nz-groundwater-hub.org/pycsw/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities"},{"code":"GetRecordById","method":"POST","type":"application/xml","href":"https://portal.smart-project.info/journalcsw/journalcsw?request=GetRecordById&version=2.0.2&service=CSW&elementSetName=full&outputSchema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&Id="}],"contents":[]}],"categories":[{"scheme":"view-groups","term":"awa_catch","label":"Awahou Catchment"}],"active":true,"folder":"awa_catch"}},{"type":"Feature","id":"https://nz-groundwater-hub.org/context/resource/e357cf9f-c4f1-439d-86ea-13c526f4d10f","geometry":{"type":"Polygon","coordinates":[[[176.1,-38.11],[176.3,-38.11],[176.3,-37.97],[176.1,-37.97],[176.1,-38.11]]]},"properties":{"title":"horowhenua_ws:Bores_Dewhurst1996","abstract":"Monitoring Bores (Dewhurst 1996)","updated":"2018-02-16T04:14:56.884Z","authors":[{"name":"Alex Kmoch","email":"allixender@gmail.com","uri":"https://nz-groundwater-hub.org"}],"publisher":"GNS Science","rights":"CC BY SA 4.0 NZ","links":{"alternates":[],"previews":[{"href":"https://portal.smart-project.info/fs/images/nz_m.png","type":"image/png","rel":"icon"},{"href":"https://portal.smart-project.info/geoserver/wms?REQUEST=GetLegendGraphic&VERSION=1.0.0&FORMAT=image/png&WIDTH=20&HEIGHT=20&LAYER=horowhenua_ws:Bores_Dewhurst1996","type":"image/png","rel":"icon"}],"data":[{"href":"https://portal.smart-project.info/geoserver/wms","type":"application/xml","title":"Monitoring Bores (Dewhurst 1996):horowhenua_ws:Bores_Dewhurst1996"}],"via":[{"href":"https://nz-groundwater-hub.org/context/resource/e357cf9f-c4f1-439d-86ea-13c526f4d10f","rel":"via"}]},"offerings":[{"code":"http://www.opengis.net/spec/owc-geojson/1.0/req/wms","operations":[{"code":"GetCapabilities","method":"GET","type":"application/xml","href":"https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities"},{"code":"GetMap","method":"GET","type":"image/png","href":"https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3&REQUEST=GetMap&SRS=EPSG:4326&BBOX=176.1,-38.11,176.3,-37.97&WIDTH=800&HEIGHT=600&LAYERS=horowhenua_ws:Bores_Dewhurst1996&FORMAT=image/png&TRANSPARENT=TRUE&EXCEPTIONS=application/vnd.ogc.se_xml"}],"contents":[],"styles":[]},{"code":"http://www.opengis.net/spec/owc-geojson/1.0/req/csw","operations":[{"code":"GetCapabilities","method":"GET","type":"application/xml","href":"https://nz-groundwater-hub.org/pycsw/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities"},{"code":"GetRecordById","method":"POST","type":"application/xml","href":"https://portal.smart-project.info/journalcsw/journalcsw?request=GetRecordById&version=2.0.2&service=CSW&elementSetName=full&outputSchema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&Id="}],"contents":[]}],"categories":[{"scheme":"view-groups","term":"awa_catch","label":"Awahou Catchment"}],"active":true,"folder":"awa_catch"}},{"type":"Feature","id":"https://nz-groundwater-hub.org/context/resource/7ecee005-afa9-44c6-8b71-488ad6296f30","geometry":{"type":"Polygon","coordinates":[[[176.1,-38.11],[176.3,-38.11],[176.3,-37.97],[176.1,-37.97],[176.1,-38.11]]]},"properties":{"title":"horowhenua_ws:ConsentedTakes","abstract":"Consented Takes","updated":"2018-02-16T04:14:56.884Z","authors":[{"name":"Alex Kmoch","email":"allixender@gmail.com","uri":"https://nz-groundwater-hub.org"}],"publisher":"GNS Science","rights":"CC BY SA 4.0 NZ","links":{"alternates":[],"previews":[{"href":"https://portal.smart-project.info/fs/images/nz_m.png","type":"image/png","rel":"icon"},{"href":"https://portal.smart-project.info/geoserver/wms?REQUEST=GetLegendGraphic&VERSION=1.0.0&FORMAT=image/png&WIDTH=20&HEIGHT=20&LAYER=horowhenua_ws:ConsentedTakes","type":"image/png","rel":"icon"}],"data":[{"href":"https://portal.smart-project.info/geoserver/wms","type":"application/xml","title":"Consented Takes:horowhenua_ws:ConsentedTakes"}],"via":[{"href":"https://nz-groundwater-hub.org/context/resource/7ecee005-afa9-44c6-8b71-488ad6296f30","rel":"via"}]},"offerings":[{"code":"http://www.opengis.net/spec/owc-geojson/1.0/req/wms","operations":[{"code":"GetCapabilities","method":"GET","type":"application/xml","href":"https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities"},{"code":"GetMap","method":"GET","type":"image/png","href":"https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3&REQUEST=GetMap&SRS=EPSG:4326&BBOX=176.1,-38.11,176.3,-37.97&WIDTH=800&HEIGHT=600&LAYERS=horowhenua_ws:ConsentedTakes&FORMAT=image/png&TRANSPARENT=TRUE&EXCEPTIONS=application/vnd.ogc.se_xml"}],"contents":[],"styles":[]},{"code":"http://www.opengis.net/spec/owc-geojson/1.0/req/csw","operations":[{"code":"GetCapabilities","method":"GET","type":"application/xml","href":"https://nz-groundwater-hub.org/pycsw/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities"},{"code":"GetRecordById","method":"POST","type":"application/xml","href":"https://portal.smart-project.info/journalcsw/journalcsw?request=GetRecordById&version=2.0.2&service=CSW&elementSetName=full&outputSchema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&Id="}],"contents":[]}],"categories":[{"scheme":"view-groups","term":"awa_catch","label":"Awahou Catchment"}],"active":true,"folder":"awa_catch"}},{"type":"Feature","id":"https://nz-groundwater-hub.org/context/resource/9b88e6e9-3128-4bb7-9c46-b410c277989f","geometry":{"type":"Polygon","coordinates":[[[176.1,-38.11],[176.3,-38.11],[176.3,-37.97],[176.1,-37.97],[176.1,-38.11]]]},"properties":{"title":"horowhenua_ws:BOPRC_SW_sites","abstract":"BOPRC SW quality sites","updated":"2018-02-16T04:14:56.884Z","authors":[{"name":"Alex Kmoch","email":"allixender@gmail.com","uri":"https://nz-groundwater-hub.org"}],"publisher":"GNS Science","rights":"CC BY SA 4.0 NZ","links":{"alternates":[],"previews":[{"href":"https://portal.smart-project.info/fs/images/nz_m.png","type":"image/png","rel":"icon"},{"href":"https://portal.smart-project.info/geoserver/wms?REQUEST=GetLegendGraphic&VERSION=1.0.0&FORMAT=image/png&WIDTH=20&HEIGHT=20&LAYER=horowhenua_ws:BOPRC_SW_sites","type":"image/png","rel":"icon"}],"data":[{"href":"https://portal.smart-project.info/geoserver/wms","type":"application/xml","title":"BOPRC SW quality sites:horowhenua_ws:BOPRC_SW_sites"}],"via":[{"href":"https://nz-groundwater-hub.org/context/resource/9b88e6e9-3128-4bb7-9c46-b410c277989f","rel":"via"}]},"offerings":[{"code":"http://www.opengis.net/spec/owc-geojson/1.0/req/wms","operations":[{"code":"GetCapabilities","method":"GET","type":"application/xml","href":"https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities"},{"code":"GetMap","method":"GET","type":"image/png","href":"https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3&REQUEST=GetMap&SRS=EPSG:4326&BBOX=176.1,-38.11,176.3,-37.97&WIDTH=800&HEIGHT=600&LAYERS=horowhenua_ws:BOPRC_SW_sites&FORMAT=image/png&TRANSPARENT=TRUE&EXCEPTIONS=application/vnd.ogc.se_xml"}],"contents":[],"styles":[]},{"code":"http://www.opengis.net/spec/owc-geojson/1.0/req/csw","operations":[{"code":"GetCapabilities","method":"GET","type":"application/xml","href":"https://nz-groundwater-hub.org/pycsw/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities"},{"code":"GetRecordById","method":"POST","type":"application/xml","href":"https://portal.smart-project.info/journalcsw/journalcsw?request=GetRecordById&version=2.0.2&service=CSW&elementSetName=full&outputSchema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&Id="}],"contents":[]}],"categories":[{"scheme":"view-groups","term":"awa_catch","label":"Awahou Catchment"}],"active":true,"folder":"awa_catch"}},{"type":"Feature","id":"https://nz-groundwater-hub.org/context/resource/d5407fc4-5946-4eb0-a98a-be9aa3b8bee5","geometry":{"type":"Polygon","coordinates":[[[176.1,-38.11],[176.3,-38.11],[176.3,-37.97],[176.1,-37.97],[176.1,-38.11]]]},"properties":{"title":"horowhenua_ws:BOPRC_SWflow","abstract":"BOPRC SW flow sites","updated":"2018-02-16T04:14:56.884Z","authors":[{"name":"Alex Kmoch","email":"allixender@gmail.com","uri":"https://nz-groundwater-hub.org"}],"publisher":"GNS Science","rights":"CC BY SA 4.0 NZ","links":{"alternates":[],"previews":[{"href":"https://portal.smart-project.info/fs/images/nz_m.png","type":"image/png","rel":"icon"},{"href":"https://portal.smart-project.info/geoserver/wms?REQUEST=GetLegendGraphic&VERSION=1.0.0&FORMAT=image/png&WIDTH=20&HEIGHT=20&LAYER=horowhenua_ws:BOPRC_SWflow","type":"image/png","rel":"icon"}],"data":[{"href":"https://portal.smart-project.info/geoserver/wms","type":"application/xml","title":"BOPRC SW flow sites:horowhenua_ws:BOPRC_SWflow"}],"via":[{"href":"https://nz-groundwater-hub.org/context/resource/d5407fc4-5946-4eb0-a98a-be9aa3b8bee5","rel":"via"}]},"offerings":[{"code":"http://www.opengis.net/spec/owc-geojson/1.0/req/wms","operations":[{"code":"GetCapabilities","method":"GET","type":"application/xml","href":"https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities"},{"code":"GetMap","method":"GET","type":"image/png","href":"https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3&REQUEST=GetMap&SRS=EPSG:4326&BBOX=176.1,-38.11,176.3,-37.97&WIDTH=800&HEIGHT=600&LAYERS=horowhenua_ws:BOPRC_SWflow&FORMAT=image/png&TRANSPARENT=TRUE&EXCEPTIONS=application/vnd.ogc.se_xml"}],"contents":[],"styles":[]},{"code":"http://www.opengis.net/spec/owc-geojson/1.0/req/csw","operations":[{"code":"GetCapabilities","method":"GET","type":"application/xml","href":"https://nz-groundwater-hub.org/pycsw/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities"},{"code":"GetRecordById","method":"POST","type":"application/xml","href":"https://portal.smart-project.info/journalcsw/journalcsw?request=GetRecordById&version=2.0.2&service=CSW&elementSetName=full&outputSchema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&Id="}],"contents":[]}],"categories":[{"scheme":"view-groups","term":"awa_catch","label":"Awahou Catchment"}],"active":true,"folder":"awa_catch"}},{"type":"Feature","id":"https://nz-groundwater-hub.org/context/resource/3a9ff96a-59d3-463f-9140-1d00eed8540d","geometry":{"type":"Polygon","coordinates":[[[176.1,-38.11],[176.3,-38.11],[176.3,-37.97],[176.1,-37.97],[176.1,-38.11]]]},"properties":{"title":"horowhenua_ws:MRT","abstract":"Mean Residence Times","updated":"2018-02-16T04:14:56.884Z","authors":[{"name":"Alex Kmoch","email":"allixender@gmail.com","uri":"https://nz-groundwater-hub.org"}],"publisher":"GNS Science","rights":"CC BY SA 4.0 NZ","links":{"alternates":[],"previews":[{"href":"https://portal.smart-project.info/fs/images/nz_m.png","type":"image/png","rel":"icon"},{"href":"https://portal.smart-project.info/geoserver/wms?REQUEST=GetLegendGraphic&VERSION=1.0.0&FORMAT=image/png&WIDTH=20&HEIGHT=20&LAYER=horowhenua_ws:MRT","type":"image/png","rel":"icon"}],"data":[{"href":"https://portal.smart-project.info/geoserver/wms","type":"application/xml","title":"Mean Residence Times:horowhenua_ws:MRT"}],"via":[{"href":"https://nz-groundwater-hub.org/context/resource/3a9ff96a-59d3-463f-9140-1d00eed8540d","rel":"via"}]},"offerings":[{"code":"http://www.opengis.net/spec/owc-geojson/1.0/req/wms","operations":[{"code":"GetCapabilities","method":"GET","type":"application/xml","href":"https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities"},{"code":"GetMap","method":"GET","type":"image/png","href":"https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3&REQUEST=GetMap&SRS=EPSG:4326&BBOX=176.1,-38.11,176.3,-37.97&WIDTH=800&HEIGHT=600&LAYERS=horowhenua_ws:MRT&FORMAT=image/png&TRANSPARENT=TRUE&EXCEPTIONS=application/vnd.ogc.se_xml"}],"contents":[],"styles":[]},{"code":"http://www.opengis.net/spec/owc-geojson/1.0/req/csw","operations":[{"code":"GetCapabilities","method":"GET","type":"application/xml","href":"https://nz-groundwater-hub.org/pycsw/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities"},{"code":"GetRecordById","method":"POST","type":"application/xml","href":"https://portal.smart-project.info/journalcsw/journalcsw?request=GetRecordById&version=2.0.2&service=CSW&elementSetName=full&outputSchema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&Id="}],"contents":[]}],"categories":[{"scheme":"view-groups","term":"awa_catch","label":"Awahou Catchment"}],"active":true,"folder":"awa_catch"}},{"type":"Feature","id":"https://nz-groundwater-hub.org/context/resource/39340394-83d6-4d67-b573-365f8ea2fb91","geometry":{"type":"Polygon","coordinates":[[[176.1,-38.11],[176.3,-38.11],[176.3,-37.97],[176.1,-37.97],[176.1,-38.11]]]},"properties":{"title":"layer-50765","abstract":"Linz NZ Terrain Relief (Topo50)","updated":"2018-02-16T04:14:56.884Z","authors":[{"name":"Alex Kmoch","email":"allixender@gmail.com","uri":"https://nz-groundwater-hub.org"}],"publisher":"GNS Science","rights":"CC BY SA 4.0 NZ","links":{"alternates":[],"previews":[{"href":"https://portal.smart-project.info/fs/images/nz_m.png","type":"image/png","rel":"icon"},{"href":"https://data.linz.govt.nz/services;key=a8fb9bcd52684b7abe14dd4664ce9df9/wms?REQUEST=GetLegendGraphic&VERSION=1.0.0&FORMAT=image/png&WIDTH=20&HEIGHT=20&LAYER=layer-50765","type":"image/png","rel":"icon"}],"data":[{"href":"https://data.linz.govt.nz/services;key=a8fb9bcd52684b7abe14dd4664ce9df9/wms","type":"application/xml","title":"Linz NZ Terrain Relief (Topo50):layer-50765"}],"via":[{"href":"https://nz-groundwater-hub.org/context/resource/39340394-83d6-4d67-b573-365f8ea2fb91","rel":"via"}]},"offerings":[{"code":"http://www.opengis.net/spec/owc-geojson/1.0/req/wms","operations":[{"code":"GetCapabilities","method":"GET","type":"application/xml","href":"https://data.linz.govt.nz/services;key=a8fb9bcd52684b7abe14dd4664ce9df9/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities"},{"code":"GetMap","method":"GET","type":"image/png","href":"https://data.linz.govt.nz/services;key=a8fb9bcd52684b7abe14dd4664ce9df9/wms?SERVICE=WMS&VERSION=1.3&REQUEST=GetMap&SRS=EPSG:4326&BBOX=176.1,-38.11,176.3,-37.97&WIDTH=800&HEIGHT=600&LAYERS=layer-50765&FORMAT=image/png&TRANSPARENT=TRUE&EXCEPTIONS=application/vnd.ogc.se_xml"}],"contents":[],"styles":[]},{"code":"http://www.opengis.net/spec/owc-geojson/1.0/req/csw","operations":[{"code":"GetCapabilities","method":"GET","type":"application/xml","href":"https://nz-groundwater-hub.org/pycsw/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities"},{"code":"GetRecordById","method":"POST","type":"application/xml","href":"https://portal.smart-project.info/journalcsw/journalcsw?request=GetRecordById&version=2.0.2&service=CSW&elementSetName=full&outputSchema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&Id="}],"contents":[]}],"categories":[{"scheme":"view-groups","term":"awa_add","label":"Informative Layers"}],"active":false,"folder":"awa_add"}},{"type":"Feature","id":"https://nz-groundwater-hub.org/context/resource/7d0af7c0-2831-456a-9033-696b69809f9c","geometry":{"type":"Polygon","coordinates":[[[176.1,-38.11],[176.3,-38.11],[176.3,-37.97],[176.1,-37.97],[176.1,-38.11]]]},"properties":{"title":"horowhenua_ws:nz-dtm-100x100","abstract":"NZ DTM 100x100","updated":"2018-02-16T04:14:56.884Z","authors":[{"name":"Alex Kmoch","email":"allixender@gmail.com","uri":"https://nz-groundwater-hub.org"}],"publisher":"GNS Science","rights":"CC BY SA 4.0 NZ","links":{"alternates":[],"previews":[{"href":"https://portal.smart-project.info/fs/images/nz_m.png","type":"image/png","rel":"icon"},{"href":"https://portal.smart-project.info/geoserver/wms?REQUEST=GetLegendGraphic&VERSION=1.0.0&FORMAT=image/png&WIDTH=20&HEIGHT=20&LAYER=horowhenua_ws:nz-dtm-100x100","type":"image/png","rel":"icon"}],"data":[{"href":"https://portal.smart-project.info/geoserver/wms","type":"application/xml","title":"NZ DTM 100x100:horowhenua_ws:nz-dtm-100x100"}],"via":[{"href":"https://nz-groundwater-hub.org/context/resource/7d0af7c0-2831-456a-9033-696b69809f9c","rel":"via"}]},"offerings":[{"code":"http://www.opengis.net/spec/owc-geojson/1.0/req/wms","operations":[{"code":"GetCapabilities","method":"GET","type":"application/xml","href":"https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities"},{"code":"GetMap","method":"GET","type":"image/png","href":"https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3&REQUEST=GetMap&SRS=EPSG:4326&BBOX=176.1,-38.11,176.3,-37.97&WIDTH=800&HEIGHT=600&LAYERS=horowhenua_ws:nz-dtm-100x100&FORMAT=image/png&TRANSPARENT=TRUE&EXCEPTIONS=application/vnd.ogc.se_xml"}],"contents":[],"styles":[]},{"code":"http://www.opengis.net/spec/owc-geojson/1.0/req/csw","operations":[{"code":"GetCapabilities","method":"GET","type":"application/xml","href":"https://nz-groundwater-hub.org/pycsw/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities"},{"code":"GetRecordById","method":"POST","type":"application/xml","href":"https://portal.smart-project.info/journalcsw/journalcsw?request=GetRecordById&version=2.0.2&service=CSW&elementSetName=full&outputSchema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&Id="}],"contents":[]}],"categories":[{"scheme":"view-groups","term":"awa_add","label":"Informative Layers"}],"active":false,"folder":"awa_add"}},{"type":"Feature","id":"https://nz-groundwater-hub.org/context/resource/3cd2a56a-9164-4a5f-804f-83df14f954d4","geometry":{"type":"Polygon","coordinates":[[[176.1,-38.11],[176.3,-38.11],[176.3,-37.97],[176.1,-37.97],[176.1,-38.11]]]},"properties":{"title":"gns:NZL_GNS_1M_Lithostratigraphy","abstract":"NZ GNS QMAP","updated":"2018-02-16T04:14:56.884Z","authors":[{"name":"Alex Kmoch","email":"allixender@gmail.com","uri":"https://nz-groundwater-hub.org"}],"publisher":"GNS Science","rights":"CC BY SA 4.0 NZ","links":{"alternates":[],"previews":[{"href":"https://portal.smart-project.info/fs/images/nz_m.png","type":"image/png","rel":"icon"},{"href":"https://maps.gns.cri.nz/geology/wms?REQUEST=GetLegendGraphic&VERSION=1.0.0&FORMAT=image/png&WIDTH=20&HEIGHT=20&LAYER=gns:NZL_GNS_1M_Lithostratigraphy","type":"image/png","rel":"icon"}],"data":[{"href":"https://maps.gns.cri.nz/geology/wms","type":"application/xml","title":"NZ GNS QMAP:gns:NZL_GNS_1M_Lithostratigraphy"}],"via":[{"href":"https://nz-groundwater-hub.org/context/resource/3cd2a56a-9164-4a5f-804f-83df14f954d4","rel":"via"}]},"offerings":[{"code":"http://www.opengis.net/spec/owc-geojson/1.0/req/wms","operations":[{"code":"GetCapabilities","method":"GET","type":"application/xml","href":"https://maps.gns.cri.nz/geology/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities"},{"code":"GetMap","method":"GET","type":"image/png","href":"https://maps.gns.cri.nz/geology/wms?SERVICE=WMS&VERSION=1.3&REQUEST=GetMap&SRS=EPSG:4326&BBOX=176.1,-38.11,176.3,-37.97&WIDTH=800&HEIGHT=600&LAYERS=gns:NZL_GNS_1M_Lithostratigraphy&FORMAT=image/png&TRANSPARENT=TRUE&EXCEPTIONS=application/vnd.ogc.se_xml"}],"contents":[],"styles":[]},{"code":"http://www.opengis.net/spec/owc-geojson/1.0/req/csw","operations":[{"code":"GetCapabilities","method":"GET","type":"application/xml","href":"https://nz-groundwater-hub.org/pycsw/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities"},{"code":"GetRecordById","method":"POST","type":"application/xml","href":"https://portal.smart-project.info/journalcsw/journalcsw?request=GetRecordById&version=2.0.2&service=CSW&elementSetName=full&outputSchema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&Id="}],"contents":[]}],"categories":[{"scheme":"view-groups","term":"awa_add","label":"Informative Layers"}],"active":false,"folder":"awa_add"}},{"type":"Feature","id":"https://nz-groundwater-hub.org/context/resource/1486e9ba-7a5f-4dc4-be5f-4dc9e2be46e8","geometry":{"type":"Polygon","coordinates":[[[176.1,-38.11],[176.3,-38.11],[176.3,-37.97],[176.1,-37.97],[176.1,-38.11]]]},"properties":{"title":"horowhenua_ws:nz_aquifers","abstract":"NZ Aquifers (White 2001)","updated":"2018-02-16T04:14:56.884Z","authors":[{"name":"Alex Kmoch","email":"allixender@gmail.com","uri":"https://nz-groundwater-hub.org"}],"publisher":"GNS Science","rights":"CC BY SA 4.0 NZ","links":{"alternates":[],"previews":[{"href":"https://portal.smart-project.info/fs/images/nz_m.png","type":"image/png","rel":"icon"},{"href":"https://portal.smart-project.info/geoserver/wms?REQUEST=GetLegendGraphic&VERSION=1.0.0&FORMAT=image/png&WIDTH=20&HEIGHT=20&LAYER=horowhenua_ws:nz_aquifers","type":"image/png","rel":"icon"}],"data":[{"href":"https://portal.smart-project.info/geoserver/wms","type":"application/xml","title":"NZ Aquifers (White 2001):horowhenua_ws:nz_aquifers"}],"via":[{"href":"https://nz-groundwater-hub.org/context/resource/1486e9ba-7a5f-4dc4-be5f-4dc9e2be46e8","rel":"via"}]},"offerings":[{"code":"http://www.opengis.net/spec/owc-geojson/1.0/req/wms","operations":[{"code":"GetCapabilities","method":"GET","type":"application/xml","href":"https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities"},{"code":"GetMap","method":"GET","type":"image/png","href":"https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3&REQUEST=GetMap&SRS=EPSG:4326&BBOX=176.1,-38.11,176.3,-37.97&WIDTH=800&HEIGHT=600&LAYERS=horowhenua_ws:nz_aquifers&FORMAT=image/png&TRANSPARENT=TRUE&EXCEPTIONS=application/vnd.ogc.se_xml"}],"contents":[],"styles":[]},{"code":"http://www.opengis.net/spec/owc-geojson/1.0/req/csw","operations":[{"code":"GetCapabilities","method":"GET","type":"application/xml","href":"https://nz-groundwater-hub.org/pycsw/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities"},{"code":"GetRecordById","method":"POST","type":"application/xml","href":"https://portal.smart-project.info/journalcsw/journalcsw?request=GetRecordById&version=2.0.2&service=CSW&elementSetName=full&outputSchema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&Id="}],"contents":[]}],"categories":[{"scheme":"view-groups","term":"awa_add","label":"Informative Layers"}],"active":false,"folder":"awa_add"}},{"type":"Feature","id":"https://nz-groundwater-hub.org/context/resource/3b9d925d-f3d7-4768-ad6c-7eb174b4afdf","geometry":{"type":"Polygon","coordinates":[[[176.1,-38.11],[176.3,-38.11],[176.3,-37.97],[176.1,-37.97],[176.1,-38.11]]]},"properties":{"title":"horowhenua_ws:rotorua_model","abstract":"Rotorua geological model (GNS)","updated":"2018-02-16T04:14:56.884Z","authors":[{"name":"Alex Kmoch","email":"allixender@gmail.com","uri":"https://nz-groundwater-hub.org"}],"publisher":"GNS Science","rights":"CC BY SA 4.0 NZ","links":{"alternates":[],"previews":[{"href":"https://portal.smart-project.info/fs/images/nz_m.png","type":"image/png","rel":"icon"},{"href":"https://portal.smart-project.info/geoserver/wms?REQUEST=GetLegendGraphic&VERSION=1.0.0&FORMAT=image/png&WIDTH=20&HEIGHT=20&LAYER=horowhenua_ws:rotorua_model","type":"image/png","rel":"icon"}],"data":[{"href":"https://portal.smart-project.info/geoserver/wms","type":"application/xml","title":"Rotorua geological model (GNS):horowhenua_ws:rotorua_model"}],"via":[{"href":"https://nz-groundwater-hub.org/context/resource/3b9d925d-f3d7-4768-ad6c-7eb174b4afdf","rel":"via"}]},"offerings":[{"code":"http://www.opengis.net/spec/owc-geojson/1.0/req/wms","operations":[{"code":"GetCapabilities","method":"GET","type":"application/xml","href":"https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities"},{"code":"GetMap","method":"GET","type":"image/png","href":"https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3&REQUEST=GetMap&SRS=EPSG:4326&BBOX=176.1,-38.11,176.3,-37.97&WIDTH=800&HEIGHT=600&LAYERS=horowhenua_ws:rotorua_model&FORMAT=image/png&TRANSPARENT=TRUE&EXCEPTIONS=application/vnd.ogc.se_xml"}],"contents":[],"styles":[]},{"code":"http://www.opengis.net/spec/owc-geojson/1.0/req/csw","operations":[{"code":"GetCapabilities","method":"GET","type":"application/xml","href":"https://nz-groundwater-hub.org/pycsw/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities"},{"code":"GetRecordById","method":"POST","type":"application/xml","href":"https://portal.smart-project.info/journalcsw/journalcsw?request=GetRecordById&version=2.0.2&service=CSW&elementSetName=full&outputSchema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&Id="}],"contents":[]}],"categories":[{"scheme":"view-groups","term":"awa_add","label":"Informative Layers"}],"active":false,"folder":"awa_add"}},{"type":"Feature","id":"https://nz-groundwater-hub.org/context/resource/eaff658f-d521-45e2-9a60-3fab0aeb7dc5","geometry":{"type":"Polygon","coordinates":[[[176.1,-38.11],[176.3,-38.11],[176.3,-37.97],[176.1,-37.97],[176.1,-38.11]]]},"properties":{"title":"horowhenua_ws:ngmp-locations","abstract":"NGMP Sites","updated":"2018-02-16T04:14:56.884Z","authors":[{"name":"Alex Kmoch","email":"allixender@gmail.com","uri":"https://nz-groundwater-hub.org"}],"publisher":"GNS Science","rights":"CC BY SA 4.0 NZ","links":{"alternates":[],"previews":[{"href":"https://portal.smart-project.info/fs/images/nz_m.png","type":"image/png","rel":"icon"},{"href":"https://portal.smart-project.info/geoserver/wms?REQUEST=GetLegendGraphic&VERSION=1.0.0&FORMAT=image/png&WIDTH=20&HEIGHT=20&LAYER=horowhenua_ws:ngmp-locations","type":"image/png","rel":"icon"}],"data":[{"href":"https://portal.smart-project.info/geoserver/wms","type":"application/xml","title":"NGMP Sites:horowhenua_ws:ngmp-locations"}],"via":[{"href":"https://nz-groundwater-hub.org/context/resource/eaff658f-d521-45e2-9a60-3fab0aeb7dc5","rel":"via"}]},"offerings":[{"code":"http://www.opengis.net/spec/owc-geojson/1.0/req/wms","operations":[{"code":"GetCapabilities","method":"GET","type":"application/xml","href":"https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities"},{"code":"GetMap","method":"GET","type":"image/png","href":"https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3&REQUEST=GetMap&SRS=EPSG:4326&BBOX=176.1,-38.11,176.3,-37.97&WIDTH=800&HEIGHT=600&LAYERS=horowhenua_ws:ngmp-locations&FORMAT=image/png&TRANSPARENT=TRUE&EXCEPTIONS=application/vnd.ogc.se_xml"}],"contents":[],"styles":[]},{"code":"http://www.opengis.net/spec/owc-geojson/1.0/req/csw","operations":[{"code":"GetCapabilities","method":"GET","type":"application/xml","href":"https://nz-groundwater-hub.org/pycsw/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities"},{"code":"GetRecordById","method":"POST","type":"application/xml","href":"https://portal.smart-project.info/journalcsw/journalcsw?request=GetRecordById&version=2.0.2&service=CSW&elementSetName=full&outputSchema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&Id="}],"contents":[]}],"categories":[{"scheme":"view-groups","term":"awa_add","label":"Informative Layers"}],"active":true,"folder":"awa_add"}}]}
+{
+    "type": "FeatureCollection",
+    "id": "https://nz-groundwater-hub.org/context/document/f1306c0a-bd72-4584-9a84-a267145c5476",
+    "bbox": [
+        176.1,
+        -38.11,
+        176.3,
+        -37.97
+    ],
+    "properties": {
+        "links": {
+            "profiles": [
+                {
+                    "href": "http://www.opengis.net/spec/owc-geojson/1.0/req/core",
+                    "rel": "profile"
+                }
+            ],
+            "via": [
+                {
+                    "href": "https://nz-groundwater-hub.org/context/document/f1306c0a-bd72-4584-9a84-a267145c5476",
+                    "rel": "via"
+                }
+            ]
+        },
+        "lang": "en",
+        "title": "Awahou Catchment",
+        "subtitle": "Awahou Catchment Informative Layers",
+        "updated": "2018-02-16T04:14:56.884Z",
+        "generator": {
+            "title": "Groundwater Hub"
+        },
+        "authors": [
+            {
+                "name": "Alex Kmoch",
+                "email": "allixender@gmail.com",
+                "uri": "https://nz-groundwater-hub.org"
+            }
+        ],
+        "publisher": "GNS Science",
+        "rights": "CC BY SA 4.0 NZ",
+        "categories": [
+            {
+                "scheme": "view-groups",
+                "term": "awa",
+                "label": "Awahou Catchment"
+            }
+        ]
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "id": "https://nz-groundwater-hub.org/context/resource/7ed51999-63bd-4736-848a-3ae1c2613256",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            176.1,
+                            -38.11
+                        ],
+                        [
+                            176.3,
+                            -38.11
+                        ],
+                        [
+                            176.3,
+                            -37.97
+                        ],
+                        [
+                            176.1,
+                            -37.97
+                        ],
+                        [
+                            176.1,
+                            -38.11
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "title": "horowhenua_ws:Rotorua_subcatchments",
+                "abstract": "Lake Rotorua Sub Catchments (June 2014)",
+                "updated": "2018-02-16T04:14:56.884Z",
+                "authors": [
+                    {
+                        "name": "Alex Kmoch",
+                        "email": "allixender@gmail.com",
+                        "uri": "https://nz-groundwater-hub.org"
+                    }
+                ],
+                "publisher": "GNS Science",
+                "rights": "CC BY SA 4.0 NZ",
+                "links": {
+                    "alternates": [],
+                    "previews": [
+                        {
+                            "href": "https://portal.smart-project.info/fs/images/nz_m.png",
+                            "type": "image/png",
+                            "rel": "icon"
+                        },
+                        {
+                            "href": "https://portal.smart-project.info/geoserver/wms?REQUEST=GetLegendGraphic&VERSION=1.0.0&FORMAT=image/png&WIDTH=20&HEIGHT=20&LAYER=horowhenua_ws:Rotorua_subcatchments",
+                            "type": "image/png",
+                            "rel": "icon"
+                        }
+                    ],
+                    "data": [
+                        {
+                            "href": "https://portal.smart-project.info/geoserver/wms",
+                            "type": "application/xml",
+                            "title": "Lake Rotorua Sub Catchments (June 2014):horowhenua_ws:Rotorua_subcatchments"
+                        }
+                    ],
+                    "via": [
+                        {
+                            "href": "https://nz-groundwater-hub.org/context/resource/7ed51999-63bd-4736-848a-3ae1c2613256",
+                            "rel": "via"
+                        }
+                    ]
+                },
+                "offerings": [
+                    {
+                        "code": "http://www.opengis.net/spec/owc-geojson/1.0/req/wms",
+                        "operations": [
+                            {
+                                "code": "GetCapabilities",
+                                "method": "GET",
+                                "type": "application/xml",
+                                "href": "https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities"
+                            },
+                            {
+                                "code": "GetMap",
+                                "method": "GET",
+                                "type": "image/png",
+                                "href": "https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3&REQUEST=GetMap&SRS=EPSG:4326&BBOX=176.1,-38.11,176.3,-37.97&WIDTH=800&HEIGHT=600&LAYERS=horowhenua_ws:Rotorua_subcatchments&FORMAT=image/png&TRANSPARENT=TRUE&EXCEPTIONS=application/vnd.ogc.se_xml"
+                            }
+                        ],
+                        "contents": [],
+                        "styles": []
+                    },
+                    {
+                        "code": "http://www.opengis.net/spec/owc-geojson/1.0/req/csw",
+                        "operations": [
+                            {
+                                "code": "GetCapabilities",
+                                "method": "GET",
+                                "type": "application/xml",
+                                "href": "https://nz-groundwater-hub.org/pycsw/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities"
+                            },
+                            {
+                                "code": "GetRecordById",
+                                "method": "POST",
+                                "type": "application/xml",
+                                "href": "https://portal.smart-project.info/journalcsw/journalcsw?request=GetRecordById&version=2.0.2&service=CSW&elementSetName=full&outputSchema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&Id="
+                            }
+                        ],
+                        "contents": []
+                    }
+                ],
+                "categories": [
+                    {
+                        "scheme": "view-groups",
+                        "term": "awa_catch",
+                        "label": "Awahou Catchment"
+                    }
+                ],
+                "active": false,
+                "folder": "awa_catch"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "https://nz-groundwater-hub.org/context/resource/cbf07a27-f216-4ebb-90a0-f046d7b46722",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            176.1,
+                            -38.11
+                        ],
+                        [
+                            176.3,
+                            -38.11
+                        ],
+                        [
+                            176.3,
+                            -37.97
+                        ],
+                        [
+                            176.1,
+                            -37.97
+                        ],
+                        [
+                            176.1,
+                            -38.11
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "title": "horowhenua_ws:QMAP_clips",
+                "abstract": "QMAP geology, clipped",
+                "updated": "2018-02-16T04:14:56.884Z",
+                "authors": [
+                    {
+                        "name": "Alex Kmoch",
+                        "email": "allixender@gmail.com",
+                        "uri": "https://nz-groundwater-hub.org"
+                    }
+                ],
+                "publisher": "GNS Science",
+                "rights": "CC BY SA 4.0 NZ",
+                "links": {
+                    "alternates": [],
+                    "previews": [
+                        {
+                            "href": "https://portal.smart-project.info/fs/images/nz_m.png",
+                            "type": "image/png",
+                            "rel": "icon"
+                        },
+                        {
+                            "href": "https://portal.smart-project.info/geoserver/wms?REQUEST=GetLegendGraphic&VERSION=1.0.0&FORMAT=image/png&WIDTH=20&HEIGHT=20&LAYER=horowhenua_ws:QMAP_clips",
+                            "type": "image/png",
+                            "rel": "icon"
+                        }
+                    ],
+                    "data": [
+                        {
+                            "href": "https://portal.smart-project.info/geoserver/wms",
+                            "type": "application/xml",
+                            "title": "QMAP geology, clipped:horowhenua_ws:QMAP_clips"
+                        }
+                    ],
+                    "via": [
+                        {
+                            "href": "https://nz-groundwater-hub.org/context/resource/cbf07a27-f216-4ebb-90a0-f046d7b46722",
+                            "rel": "via"
+                        }
+                    ]
+                },
+                "offerings": [
+                    {
+                        "code": "http://www.opengis.net/spec/owc-geojson/1.0/req/wms",
+                        "operations": [
+                            {
+                                "code": "GetCapabilities",
+                                "method": "GET",
+                                "type": "application/xml",
+                                "href": "https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities"
+                            },
+                            {
+                                "code": "GetMap",
+                                "method": "GET",
+                                "type": "image/png",
+                                "href": "https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3&REQUEST=GetMap&SRS=EPSG:4326&BBOX=176.1,-38.11,176.3,-37.97&WIDTH=800&HEIGHT=600&LAYERS=horowhenua_ws:QMAP_clips&FORMAT=image/png&TRANSPARENT=TRUE&EXCEPTIONS=application/vnd.ogc.se_xml"
+                            }
+                        ],
+                        "contents": [],
+                        "styles": []
+                    },
+                    {
+                        "code": "http://www.opengis.net/spec/owc-geojson/1.0/req/csw",
+                        "operations": [
+                            {
+                                "code": "GetCapabilities",
+                                "method": "GET",
+                                "type": "application/xml",
+                                "href": "https://nz-groundwater-hub.org/pycsw/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities"
+                            },
+                            {
+                                "code": "GetRecordById",
+                                "method": "POST",
+                                "type": "application/xml",
+                                "href": "https://portal.smart-project.info/journalcsw/journalcsw?request=GetRecordById&version=2.0.2&service=CSW&elementSetName=full&outputSchema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&Id="
+                            }
+                        ],
+                        "contents": []
+                    }
+                ],
+                "categories": [
+                    {
+                        "scheme": "view-groups",
+                        "term": "awa_catch",
+                        "label": "Awahou Catchment"
+                    }
+                ],
+                "active": false,
+                "folder": "awa_catch"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "https://nz-groundwater-hub.org/context/resource/ff65f2f2-13a5-4fd8-85af-72575819cf0d",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            176.1,
+                            -38.11
+                        ],
+                        [
+                            176.3,
+                            -38.11
+                        ],
+                        [
+                            176.3,
+                            -37.97
+                        ],
+                        [
+                            176.1,
+                            -37.97
+                        ],
+                        [
+                            176.1,
+                            -38.11
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "title": "horowhenua_ws:AwahouCatchment",
+                "abstract": "Awahou Stream Catchment (June 2014)",
+                "updated": "2018-02-16T04:14:56.884Z",
+                "authors": [
+                    {
+                        "name": "Alex Kmoch",
+                        "email": "allixender@gmail.com",
+                        "uri": "https://nz-groundwater-hub.org"
+                    }
+                ],
+                "publisher": "GNS Science",
+                "rights": "CC BY SA 4.0 NZ",
+                "links": {
+                    "alternates": [],
+                    "previews": [
+                        {
+                            "href": "https://portal.smart-project.info/fs/images/nz_m.png",
+                            "type": "image/png",
+                            "rel": "icon"
+                        },
+                        {
+                            "href": "https://portal.smart-project.info/geoserver/wms?REQUEST=GetLegendGraphic&VERSION=1.0.0&FORMAT=image/png&WIDTH=20&HEIGHT=20&LAYER=horowhenua_ws:AwahouCatchment",
+                            "type": "image/png",
+                            "rel": "icon"
+                        }
+                    ],
+                    "data": [
+                        {
+                            "href": "https://portal.smart-project.info/geoserver/wms",
+                            "type": "application/xml",
+                            "title": "Awahou Stream Catchment (June 2014):horowhenua_ws:AwahouCatchment"
+                        }
+                    ],
+                    "via": [
+                        {
+                            "href": "https://nz-groundwater-hub.org/context/resource/ff65f2f2-13a5-4fd8-85af-72575819cf0d",
+                            "rel": "via"
+                        }
+                    ]
+                },
+                "offerings": [
+                    {
+                        "code": "http://www.opengis.net/spec/owc-geojson/1.0/req/wms",
+                        "operations": [
+                            {
+                                "code": "GetCapabilities",
+                                "method": "GET",
+                                "type": "application/xml",
+                                "href": "https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities"
+                            },
+                            {
+                                "code": "GetMap",
+                                "method": "GET",
+                                "type": "image/png",
+                                "href": "https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3&REQUEST=GetMap&SRS=EPSG:4326&BBOX=176.1,-38.11,176.3,-37.97&WIDTH=800&HEIGHT=600&LAYERS=horowhenua_ws:AwahouCatchment&FORMAT=image/png&TRANSPARENT=TRUE&EXCEPTIONS=application/vnd.ogc.se_xml"
+                            }
+                        ],
+                        "contents": [],
+                        "styles": []
+                    },
+                    {
+                        "code": "http://www.opengis.net/spec/owc-geojson/1.0/req/csw",
+                        "operations": [
+                            {
+                                "code": "GetCapabilities",
+                                "method": "GET",
+                                "type": "application/xml",
+                                "href": "https://nz-groundwater-hub.org/pycsw/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities"
+                            },
+                            {
+                                "code": "GetRecordById",
+                                "method": "POST",
+                                "type": "application/xml",
+                                "href": "https://portal.smart-project.info/journalcsw/journalcsw?request=GetRecordById&version=2.0.2&service=CSW&elementSetName=full&outputSchema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&Id="
+                            }
+                        ],
+                        "contents": []
+                    }
+                ],
+                "categories": [
+                    {
+                        "scheme": "view-groups",
+                        "term": "awa_catch",
+                        "label": "Awahou Catchment"
+                    }
+                ],
+                "active": false,
+                "folder": "awa_catch"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "https://nz-groundwater-hub.org/context/resource/6903be4a-0e71-49d5-8256-f569266dd564",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            176.1,
+                            -38.11
+                        ],
+                        [
+                            176.3,
+                            -38.11
+                        ],
+                        [
+                            176.3,
+                            -37.97
+                        ],
+                        [
+                            176.1,
+                            -37.97
+                        ],
+                        [
+                            176.1,
+                            -38.11
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "title": "horowhenua_ws:GW_Awahou_1_10000_9_June_2014",
+                "abstract": "Awahou Groundwater Catchment (June 2014)",
+                "updated": "2018-02-16T04:14:56.884Z",
+                "authors": [
+                    {
+                        "name": "Alex Kmoch",
+                        "email": "allixender@gmail.com",
+                        "uri": "https://nz-groundwater-hub.org"
+                    }
+                ],
+                "publisher": "GNS Science",
+                "rights": "CC BY SA 4.0 NZ",
+                "links": {
+                    "alternates": [],
+                    "previews": [
+                        {
+                            "href": "https://portal.smart-project.info/fs/images/nz_m.png",
+                            "type": "image/png",
+                            "rel": "icon"
+                        },
+                        {
+                            "href": "https://portal.smart-project.info/geoserver/wms?REQUEST=GetLegendGraphic&VERSION=1.0.0&FORMAT=image/png&WIDTH=20&HEIGHT=20&LAYER=horowhenua_ws:GW_Awahou_1_10000_9_June_2014",
+                            "type": "image/png",
+                            "rel": "icon"
+                        }
+                    ],
+                    "data": [
+                        {
+                            "href": "https://portal.smart-project.info/geoserver/wms",
+                            "type": "application/xml",
+                            "title": "Awahou Groundwater Catchment (June 2014):horowhenua_ws:GW_Awahou_1_10000_9_June_2014"
+                        }
+                    ],
+                    "via": [
+                        {
+                            "href": "https://nz-groundwater-hub.org/context/resource/6903be4a-0e71-49d5-8256-f569266dd564",
+                            "rel": "via"
+                        }
+                    ]
+                },
+                "offerings": [
+                    {
+                        "code": "http://www.opengis.net/spec/owc-geojson/1.0/req/wms",
+                        "operations": [
+                            {
+                                "code": "GetCapabilities",
+                                "method": "GET",
+                                "type": "application/xml",
+                                "href": "https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities"
+                            },
+                            {
+                                "code": "GetMap",
+                                "method": "GET",
+                                "type": "image/png",
+                                "href": "https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3&REQUEST=GetMap&SRS=EPSG:4326&BBOX=176.1,-38.11,176.3,-37.97&WIDTH=800&HEIGHT=600&LAYERS=horowhenua_ws:GW_Awahou_1_10000_9_June_2014&FORMAT=image/png&TRANSPARENT=TRUE&EXCEPTIONS=application/vnd.ogc.se_xml"
+                            }
+                        ],
+                        "contents": [],
+                        "styles": []
+                    },
+                    {
+                        "code": "http://www.opengis.net/spec/owc-geojson/1.0/req/csw",
+                        "operations": [
+                            {
+                                "code": "GetCapabilities",
+                                "method": "GET",
+                                "type": "application/xml",
+                                "href": "https://nz-groundwater-hub.org/pycsw/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities"
+                            },
+                            {
+                                "code": "GetRecordById",
+                                "method": "POST",
+                                "type": "application/xml",
+                                "href": "https://portal.smart-project.info/journalcsw/journalcsw?request=GetRecordById&version=2.0.2&service=CSW&elementSetName=full&outputSchema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&Id="
+                            }
+                        ],
+                        "contents": []
+                    }
+                ],
+                "categories": [
+                    {
+                        "scheme": "view-groups",
+                        "term": "awa_catch",
+                        "label": "Awahou Catchment"
+                    }
+                ],
+                "active": true,
+                "folder": "awa_catch"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "https://nz-groundwater-hub.org/context/resource/47337b6d-a8f5-4956-8419-74428b514e05",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            176.1,
+                            -38.11
+                        ],
+                        [
+                            176.3,
+                            -38.11
+                        ],
+                        [
+                            176.3,
+                            -37.97
+                        ],
+                        [
+                            176.1,
+                            -37.97
+                        ],
+                        [
+                            176.1,
+                            -38.11
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "title": "horowhenua_ws:Hamurana_Springs",
+                "abstract": "Hamurana Springs",
+                "updated": "2018-02-16T04:14:56.884Z",
+                "authors": [
+                    {
+                        "name": "Alex Kmoch",
+                        "email": "allixender@gmail.com",
+                        "uri": "https://nz-groundwater-hub.org"
+                    }
+                ],
+                "publisher": "GNS Science",
+                "rights": "CC BY SA 4.0 NZ",
+                "links": {
+                    "alternates": [],
+                    "previews": [
+                        {
+                            "href": "https://portal.smart-project.info/fs/images/nz_m.png",
+                            "type": "image/png",
+                            "rel": "icon"
+                        },
+                        {
+                            "href": "https://portal.smart-project.info/geoserver/wms?REQUEST=GetLegendGraphic&VERSION=1.0.0&FORMAT=image/png&WIDTH=20&HEIGHT=20&LAYER=horowhenua_ws:Hamurana_Springs",
+                            "type": "image/png",
+                            "rel": "icon"
+                        }
+                    ],
+                    "data": [
+                        {
+                            "href": "https://portal.smart-project.info/geoserver/wms",
+                            "type": "application/xml",
+                            "title": "Hamurana Springs:horowhenua_ws:Hamurana_Springs"
+                        }
+                    ],
+                    "via": [
+                        {
+                            "href": "https://nz-groundwater-hub.org/context/resource/47337b6d-a8f5-4956-8419-74428b514e05",
+                            "rel": "via"
+                        }
+                    ]
+                },
+                "offerings": [
+                    {
+                        "code": "http://www.opengis.net/spec/owc-geojson/1.0/req/wms",
+                        "operations": [
+                            {
+                                "code": "GetCapabilities",
+                                "method": "GET",
+                                "type": "application/xml",
+                                "href": "https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities"
+                            },
+                            {
+                                "code": "GetMap",
+                                "method": "GET",
+                                "type": "image/png",
+                                "href": "https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3&REQUEST=GetMap&SRS=EPSG:4326&BBOX=176.1,-38.11,176.3,-37.97&WIDTH=800&HEIGHT=600&LAYERS=horowhenua_ws:Hamurana_Springs&FORMAT=image/png&TRANSPARENT=TRUE&EXCEPTIONS=application/vnd.ogc.se_xml"
+                            }
+                        ],
+                        "contents": [],
+                        "styles": []
+                    },
+                    {
+                        "code": "http://www.opengis.net/spec/owc-geojson/1.0/req/csw",
+                        "operations": [
+                            {
+                                "code": "GetCapabilities",
+                                "method": "GET",
+                                "type": "application/xml",
+                                "href": "https://nz-groundwater-hub.org/pycsw/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities"
+                            },
+                            {
+                                "code": "GetRecordById",
+                                "method": "POST",
+                                "type": "application/xml",
+                                "href": "https://portal.smart-project.info/journalcsw/journalcsw?request=GetRecordById&version=2.0.2&service=CSW&elementSetName=full&outputSchema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&Id="
+                            }
+                        ],
+                        "contents": []
+                    }
+                ],
+                "categories": [
+                    {
+                        "scheme": "view-groups",
+                        "term": "awa_catch",
+                        "label": "Awahou Catchment"
+                    }
+                ],
+                "active": true,
+                "folder": "awa_catch"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "https://nz-groundwater-hub.org/context/resource/62729cae-a6a9-4dd9-b3c9-212ea02d8e57",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            176.1,
+                            -38.11
+                        ],
+                        [
+                            176.3,
+                            -38.11
+                        ],
+                        [
+                            176.3,
+                            -37.97
+                        ],
+                        [
+                            176.1,
+                            -37.97
+                        ],
+                        [
+                            176.1,
+                            -38.11
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "title": "horowhenua_ws:Taniwha_Spring",
+                "abstract": "Taniwha Springs",
+                "updated": "2018-02-16T04:14:56.884Z",
+                "authors": [
+                    {
+                        "name": "Alex Kmoch",
+                        "email": "allixender@gmail.com",
+                        "uri": "https://nz-groundwater-hub.org"
+                    }
+                ],
+                "publisher": "GNS Science",
+                "rights": "CC BY SA 4.0 NZ",
+                "links": {
+                    "alternates": [],
+                    "previews": [
+                        {
+                            "href": "https://portal.smart-project.info/fs/images/nz_m.png",
+                            "type": "image/png",
+                            "rel": "icon"
+                        },
+                        {
+                            "href": "https://portal.smart-project.info/geoserver/wms?REQUEST=GetLegendGraphic&VERSION=1.0.0&FORMAT=image/png&WIDTH=20&HEIGHT=20&LAYER=horowhenua_ws:Taniwha_Spring",
+                            "type": "image/png",
+                            "rel": "icon"
+                        }
+                    ],
+                    "data": [
+                        {
+                            "href": "https://portal.smart-project.info/geoserver/wms",
+                            "type": "application/xml",
+                            "title": "Taniwha Springs:horowhenua_ws:Taniwha_Spring"
+                        }
+                    ],
+                    "via": [
+                        {
+                            "href": "https://nz-groundwater-hub.org/context/resource/62729cae-a6a9-4dd9-b3c9-212ea02d8e57",
+                            "rel": "via"
+                        }
+                    ]
+                },
+                "offerings": [
+                    {
+                        "code": "http://www.opengis.net/spec/owc-geojson/1.0/req/wms",
+                        "operations": [
+                            {
+                                "code": "GetCapabilities",
+                                "method": "GET",
+                                "type": "application/xml",
+                                "href": "https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities"
+                            },
+                            {
+                                "code": "GetMap",
+                                "method": "GET",
+                                "type": "image/png",
+                                "href": "https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3&REQUEST=GetMap&SRS=EPSG:4326&BBOX=176.1,-38.11,176.3,-37.97&WIDTH=800&HEIGHT=600&LAYERS=horowhenua_ws:Taniwha_Spring&FORMAT=image/png&TRANSPARENT=TRUE&EXCEPTIONS=application/vnd.ogc.se_xml"
+                            }
+                        ],
+                        "contents": [],
+                        "styles": []
+                    },
+                    {
+                        "code": "http://www.opengis.net/spec/owc-geojson/1.0/req/csw",
+                        "operations": [
+                            {
+                                "code": "GetCapabilities",
+                                "method": "GET",
+                                "type": "application/xml",
+                                "href": "https://nz-groundwater-hub.org/pycsw/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities"
+                            },
+                            {
+                                "code": "GetRecordById",
+                                "method": "POST",
+                                "type": "application/xml",
+                                "href": "https://portal.smart-project.info/journalcsw/journalcsw?request=GetRecordById&version=2.0.2&service=CSW&elementSetName=full&outputSchema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&Id="
+                            }
+                        ],
+                        "contents": []
+                    }
+                ],
+                "categories": [
+                    {
+                        "scheme": "view-groups",
+                        "term": "awa_catch",
+                        "label": "Awahou Catchment"
+                    }
+                ],
+                "active": true,
+                "folder": "awa_catch"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "https://nz-groundwater-hub.org/context/resource/dd3eb1e8-c513-49d7-ac08-4da4916de8ac",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            176.1,
+                            -38.11
+                        ],
+                        [
+                            176.3,
+                            -38.11
+                        ],
+                        [
+                            176.3,
+                            -37.97
+                        ],
+                        [
+                            176.1,
+                            -37.97
+                        ],
+                        [
+                            176.1,
+                            -38.11
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "title": "horowhenua_ws:Bores_Dewhurst1996",
+                "abstract": "Monitoring Bores (Dewhurst 1996)",
+                "updated": "2018-02-16T04:14:56.884Z",
+                "authors": [
+                    {
+                        "name": "Alex Kmoch",
+                        "email": "allixender@gmail.com",
+                        "uri": "https://nz-groundwater-hub.org"
+                    }
+                ],
+                "publisher": "GNS Science",
+                "rights": "CC BY SA 4.0 NZ",
+                "links": {
+                    "alternates": [],
+                    "previews": [
+                        {
+                            "href": "https://portal.smart-project.info/fs/images/nz_m.png",
+                            "type": "image/png",
+                            "rel": "icon"
+                        },
+                        {
+                            "href": "https://portal.smart-project.info/geoserver/wms?REQUEST=GetLegendGraphic&VERSION=1.0.0&FORMAT=image/png&WIDTH=20&HEIGHT=20&LAYER=horowhenua_ws:Bores_Dewhurst1996",
+                            "type": "image/png",
+                            "rel": "icon"
+                        }
+                    ],
+                    "data": [
+                        {
+                            "href": "https://portal.smart-project.info/geoserver/wms",
+                            "type": "application/xml",
+                            "title": "Monitoring Bores (Dewhurst 1996):horowhenua_ws:Bores_Dewhurst1996"
+                        }
+                    ],
+                    "via": [
+                        {
+                            "href": "https://nz-groundwater-hub.org/context/resource/dd3eb1e8-c513-49d7-ac08-4da4916de8ac",
+                            "rel": "via"
+                        }
+                    ]
+                },
+                "offerings": [
+                    {
+                        "code": "http://www.opengis.net/spec/owc-geojson/1.0/req/wms",
+                        "operations": [
+                            {
+                                "code": "GetCapabilities",
+                                "method": "GET",
+                                "type": "application/xml",
+                                "href": "https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities"
+                            },
+                            {
+                                "code": "GetMap",
+                                "method": "GET",
+                                "type": "image/png",
+                                "href": "https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3&REQUEST=GetMap&SRS=EPSG:4326&BBOX=176.1,-38.11,176.3,-37.97&WIDTH=800&HEIGHT=600&LAYERS=horowhenua_ws:Bores_Dewhurst1996&FORMAT=image/png&TRANSPARENT=TRUE&EXCEPTIONS=application/vnd.ogc.se_xml"
+                            }
+                        ],
+                        "contents": [],
+                        "styles": []
+                    },
+                    {
+                        "code": "http://www.opengis.net/spec/owc-geojson/1.0/req/csw",
+                        "operations": [
+                            {
+                                "code": "GetCapabilities",
+                                "method": "GET",
+                                "type": "application/xml",
+                                "href": "https://nz-groundwater-hub.org/pycsw/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities"
+                            },
+                            {
+                                "code": "GetRecordById",
+                                "method": "POST",
+                                "type": "application/xml",
+                                "href": "https://portal.smart-project.info/journalcsw/journalcsw?request=GetRecordById&version=2.0.2&service=CSW&elementSetName=full&outputSchema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&Id="
+                            }
+                        ],
+                        "contents": []
+                    }
+                ],
+                "categories": [
+                    {
+                        "scheme": "view-groups",
+                        "term": "awa_catch",
+                        "label": "Awahou Catchment"
+                    }
+                ],
+                "active": true,
+                "folder": "awa_catch"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "https://nz-groundwater-hub.org/context/resource/bf966b1f-6337-4c08-b3f7-da43c040c4f2",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            176.1,
+                            -38.11
+                        ],
+                        [
+                            176.3,
+                            -38.11
+                        ],
+                        [
+                            176.3,
+                            -37.97
+                        ],
+                        [
+                            176.1,
+                            -37.97
+                        ],
+                        [
+                            176.1,
+                            -38.11
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "title": "horowhenua_ws:ConsentedTakes",
+                "abstract": "Consented Takes",
+                "updated": "2018-02-16T04:14:56.884Z",
+                "authors": [
+                    {
+                        "name": "Alex Kmoch",
+                        "email": "allixender@gmail.com",
+                        "uri": "https://nz-groundwater-hub.org"
+                    }
+                ],
+                "publisher": "GNS Science",
+                "rights": "CC BY SA 4.0 NZ",
+                "links": {
+                    "alternates": [],
+                    "previews": [
+                        {
+                            "href": "https://portal.smart-project.info/fs/images/nz_m.png",
+                            "type": "image/png",
+                            "rel": "icon"
+                        },
+                        {
+                            "href": "https://portal.smart-project.info/geoserver/wms?REQUEST=GetLegendGraphic&VERSION=1.0.0&FORMAT=image/png&WIDTH=20&HEIGHT=20&LAYER=horowhenua_ws:ConsentedTakes",
+                            "type": "image/png",
+                            "rel": "icon"
+                        }
+                    ],
+                    "data": [
+                        {
+                            "href": "https://portal.smart-project.info/geoserver/wms",
+                            "type": "application/xml",
+                            "title": "Consented Takes:horowhenua_ws:ConsentedTakes"
+                        }
+                    ],
+                    "via": [
+                        {
+                            "href": "https://nz-groundwater-hub.org/context/resource/bf966b1f-6337-4c08-b3f7-da43c040c4f2",
+                            "rel": "via"
+                        }
+                    ]
+                },
+                "offerings": [
+                    {
+                        "code": "http://www.opengis.net/spec/owc-geojson/1.0/req/wms",
+                        "operations": [
+                            {
+                                "code": "GetCapabilities",
+                                "method": "GET",
+                                "type": "application/xml",
+                                "href": "https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities"
+                            },
+                            {
+                                "code": "GetMap",
+                                "method": "GET",
+                                "type": "image/png",
+                                "href": "https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3&REQUEST=GetMap&SRS=EPSG:4326&BBOX=176.1,-38.11,176.3,-37.97&WIDTH=800&HEIGHT=600&LAYERS=horowhenua_ws:ConsentedTakes&FORMAT=image/png&TRANSPARENT=TRUE&EXCEPTIONS=application/vnd.ogc.se_xml"
+                            }
+                        ],
+                        "contents": [],
+                        "styles": []
+                    },
+                    {
+                        "code": "http://www.opengis.net/spec/owc-geojson/1.0/req/csw",
+                        "operations": [
+                            {
+                                "code": "GetCapabilities",
+                                "method": "GET",
+                                "type": "application/xml",
+                                "href": "https://nz-groundwater-hub.org/pycsw/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities"
+                            },
+                            {
+                                "code": "GetRecordById",
+                                "method": "POST",
+                                "type": "application/xml",
+                                "href": "https://portal.smart-project.info/journalcsw/journalcsw?request=GetRecordById&version=2.0.2&service=CSW&elementSetName=full&outputSchema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&Id="
+                            }
+                        ],
+                        "contents": []
+                    }
+                ],
+                "categories": [
+                    {
+                        "scheme": "view-groups",
+                        "term": "awa_catch",
+                        "label": "Awahou Catchment"
+                    }
+                ],
+                "active": true,
+                "folder": "awa_catch"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "https://nz-groundwater-hub.org/context/resource/33c5634e-7f55-4abe-be59-20551100957f",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            176.1,
+                            -38.11
+                        ],
+                        [
+                            176.3,
+                            -38.11
+                        ],
+                        [
+                            176.3,
+                            -37.97
+                        ],
+                        [
+                            176.1,
+                            -37.97
+                        ],
+                        [
+                            176.1,
+                            -38.11
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "title": "horowhenua_ws:BOPRC_SW_sites",
+                "abstract": "BOPRC SW quality sites",
+                "updated": "2018-02-16T04:14:56.884Z",
+                "authors": [
+                    {
+                        "name": "Alex Kmoch",
+                        "email": "allixender@gmail.com",
+                        "uri": "https://nz-groundwater-hub.org"
+                    }
+                ],
+                "publisher": "GNS Science",
+                "rights": "CC BY SA 4.0 NZ",
+                "links": {
+                    "alternates": [],
+                    "previews": [
+                        {
+                            "href": "https://portal.smart-project.info/fs/images/nz_m.png",
+                            "type": "image/png",
+                            "rel": "icon"
+                        },
+                        {
+                            "href": "https://portal.smart-project.info/geoserver/wms?REQUEST=GetLegendGraphic&VERSION=1.0.0&FORMAT=image/png&WIDTH=20&HEIGHT=20&LAYER=horowhenua_ws:BOPRC_SW_sites",
+                            "type": "image/png",
+                            "rel": "icon"
+                        }
+                    ],
+                    "data": [
+                        {
+                            "href": "https://portal.smart-project.info/geoserver/wms",
+                            "type": "application/xml",
+                            "title": "BOPRC SW quality sites:horowhenua_ws:BOPRC_SW_sites"
+                        }
+                    ],
+                    "via": [
+                        {
+                            "href": "https://nz-groundwater-hub.org/context/resource/33c5634e-7f55-4abe-be59-20551100957f",
+                            "rel": "via"
+                        }
+                    ]
+                },
+                "offerings": [
+                    {
+                        "code": "http://www.opengis.net/spec/owc-geojson/1.0/req/wms",
+                        "operations": [
+                            {
+                                "code": "GetCapabilities",
+                                "method": "GET",
+                                "type": "application/xml",
+                                "href": "https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities"
+                            },
+                            {
+                                "code": "GetMap",
+                                "method": "GET",
+                                "type": "image/png",
+                                "href": "https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3&REQUEST=GetMap&SRS=EPSG:4326&BBOX=176.1,-38.11,176.3,-37.97&WIDTH=800&HEIGHT=600&LAYERS=horowhenua_ws:BOPRC_SW_sites&FORMAT=image/png&TRANSPARENT=TRUE&EXCEPTIONS=application/vnd.ogc.se_xml"
+                            }
+                        ],
+                        "contents": [],
+                        "styles": []
+                    },
+                    {
+                        "code": "http://www.opengis.net/spec/owc-geojson/1.0/req/csw",
+                        "operations": [
+                            {
+                                "code": "GetCapabilities",
+                                "method": "GET",
+                                "type": "application/xml",
+                                "href": "https://nz-groundwater-hub.org/pycsw/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities"
+                            },
+                            {
+                                "code": "GetRecordById",
+                                "method": "POST",
+                                "type": "application/xml",
+                                "href": "https://portal.smart-project.info/journalcsw/journalcsw?request=GetRecordById&version=2.0.2&service=CSW&elementSetName=full&outputSchema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&Id="
+                            }
+                        ],
+                        "contents": []
+                    }
+                ],
+                "categories": [
+                    {
+                        "scheme": "view-groups",
+                        "term": "awa_catch",
+                        "label": "Awahou Catchment"
+                    }
+                ],
+                "active": true,
+                "folder": "awa_catch"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "https://nz-groundwater-hub.org/context/resource/ce38d03d-0cd7-411b-988e-6b91c4c2b933",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            176.1,
+                            -38.11
+                        ],
+                        [
+                            176.3,
+                            -38.11
+                        ],
+                        [
+                            176.3,
+                            -37.97
+                        ],
+                        [
+                            176.1,
+                            -37.97
+                        ],
+                        [
+                            176.1,
+                            -38.11
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "title": "horowhenua_ws:BOPRC_SWflow",
+                "abstract": "BOPRC SW flow sites",
+                "updated": "2018-02-16T04:14:56.884Z",
+                "authors": [
+                    {
+                        "name": "Alex Kmoch",
+                        "email": "allixender@gmail.com",
+                        "uri": "https://nz-groundwater-hub.org"
+                    }
+                ],
+                "publisher": "GNS Science",
+                "rights": "CC BY SA 4.0 NZ",
+                "links": {
+                    "alternates": [],
+                    "previews": [
+                        {
+                            "href": "https://portal.smart-project.info/fs/images/nz_m.png",
+                            "type": "image/png",
+                            "rel": "icon"
+                        },
+                        {
+                            "href": "https://portal.smart-project.info/geoserver/wms?REQUEST=GetLegendGraphic&VERSION=1.0.0&FORMAT=image/png&WIDTH=20&HEIGHT=20&LAYER=horowhenua_ws:BOPRC_SWflow",
+                            "type": "image/png",
+                            "rel": "icon"
+                        }
+                    ],
+                    "data": [
+                        {
+                            "href": "https://portal.smart-project.info/geoserver/wms",
+                            "type": "application/xml",
+                            "title": "BOPRC SW flow sites:horowhenua_ws:BOPRC_SWflow"
+                        }
+                    ],
+                    "via": [
+                        {
+                            "href": "https://nz-groundwater-hub.org/context/resource/ce38d03d-0cd7-411b-988e-6b91c4c2b933",
+                            "rel": "via"
+                        }
+                    ]
+                },
+                "offerings": [
+                    {
+                        "code": "http://www.opengis.net/spec/owc-geojson/1.0/req/wms",
+                        "operations": [
+                            {
+                                "code": "GetCapabilities",
+                                "method": "GET",
+                                "type": "application/xml",
+                                "href": "https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities"
+                            },
+                            {
+                                "code": "GetMap",
+                                "method": "GET",
+                                "type": "image/png",
+                                "href": "https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3&REQUEST=GetMap&SRS=EPSG:4326&BBOX=176.1,-38.11,176.3,-37.97&WIDTH=800&HEIGHT=600&LAYERS=horowhenua_ws:BOPRC_SWflow&FORMAT=image/png&TRANSPARENT=TRUE&EXCEPTIONS=application/vnd.ogc.se_xml"
+                            }
+                        ],
+                        "contents": [],
+                        "styles": []
+                    },
+                    {
+                        "code": "http://www.opengis.net/spec/owc-geojson/1.0/req/csw",
+                        "operations": [
+                            {
+                                "code": "GetCapabilities",
+                                "method": "GET",
+                                "type": "application/xml",
+                                "href": "https://nz-groundwater-hub.org/pycsw/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities"
+                            },
+                            {
+                                "code": "GetRecordById",
+                                "method": "POST",
+                                "type": "application/xml",
+                                "href": "https://portal.smart-project.info/journalcsw/journalcsw?request=GetRecordById&version=2.0.2&service=CSW&elementSetName=full&outputSchema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&Id="
+                            }
+                        ],
+                        "contents": []
+                    }
+                ],
+                "categories": [
+                    {
+                        "scheme": "view-groups",
+                        "term": "awa_catch",
+                        "label": "Awahou Catchment"
+                    }
+                ],
+                "active": true,
+                "folder": "awa_catch"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "https://nz-groundwater-hub.org/context/resource/edd3a3e8-d814-4b7b-85bf-04ad31738a8d",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            176.1,
+                            -38.11
+                        ],
+                        [
+                            176.3,
+                            -38.11
+                        ],
+                        [
+                            176.3,
+                            -37.97
+                        ],
+                        [
+                            176.1,
+                            -37.97
+                        ],
+                        [
+                            176.1,
+                            -38.11
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "title": "horowhenua_ws:MRT",
+                "abstract": "Mean Residence Times",
+                "updated": "2018-02-16T04:14:56.884Z",
+                "authors": [
+                    {
+                        "name": "Alex Kmoch",
+                        "email": "allixender@gmail.com",
+                        "uri": "https://nz-groundwater-hub.org"
+                    }
+                ],
+                "publisher": "GNS Science",
+                "rights": "CC BY SA 4.0 NZ",
+                "links": {
+                    "alternates": [],
+                    "previews": [
+                        {
+                            "href": "https://portal.smart-project.info/fs/images/nz_m.png",
+                            "type": "image/png",
+                            "rel": "icon"
+                        },
+                        {
+                            "href": "https://portal.smart-project.info/geoserver/wms?REQUEST=GetLegendGraphic&VERSION=1.0.0&FORMAT=image/png&WIDTH=20&HEIGHT=20&LAYER=horowhenua_ws:MRT",
+                            "type": "image/png",
+                            "rel": "icon"
+                        }
+                    ],
+                    "data": [
+                        {
+                            "href": "https://portal.smart-project.info/geoserver/wms",
+                            "type": "application/xml",
+                            "title": "Mean Residence Times:horowhenua_ws:MRT"
+                        }
+                    ],
+                    "via": [
+                        {
+                            "href": "https://nz-groundwater-hub.org/context/resource/edd3a3e8-d814-4b7b-85bf-04ad31738a8d",
+                            "rel": "via"
+                        }
+                    ]
+                },
+                "offerings": [
+                    {
+                        "code": "http://www.opengis.net/spec/owc-geojson/1.0/req/wms",
+                        "operations": [
+                            {
+                                "code": "GetCapabilities",
+                                "method": "GET",
+                                "type": "application/xml",
+                                "href": "https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities"
+                            },
+                            {
+                                "code": "GetMap",
+                                "method": "GET",
+                                "type": "image/png",
+                                "href": "https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3&REQUEST=GetMap&SRS=EPSG:4326&BBOX=176.1,-38.11,176.3,-37.97&WIDTH=800&HEIGHT=600&LAYERS=horowhenua_ws:MRT&FORMAT=image/png&TRANSPARENT=TRUE&EXCEPTIONS=application/vnd.ogc.se_xml"
+                            }
+                        ],
+                        "contents": [],
+                        "styles": []
+                    },
+                    {
+                        "code": "http://www.opengis.net/spec/owc-geojson/1.0/req/csw",
+                        "operations": [
+                            {
+                                "code": "GetCapabilities",
+                                "method": "GET",
+                                "type": "application/xml",
+                                "href": "https://nz-groundwater-hub.org/pycsw/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities"
+                            },
+                            {
+                                "code": "GetRecordById",
+                                "method": "POST",
+                                "type": "application/xml",
+                                "href": "https://portal.smart-project.info/journalcsw/journalcsw?request=GetRecordById&version=2.0.2&service=CSW&elementSetName=full&outputSchema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&Id="
+                            }
+                        ],
+                        "contents": []
+                    }
+                ],
+                "categories": [
+                    {
+                        "scheme": "view-groups",
+                        "term": "awa_catch",
+                        "label": "Awahou Catchment"
+                    }
+                ],
+                "active": true,
+                "folder": "awa_catch"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "https://nz-groundwater-hub.org/context/resource/bd0e464e-ba27-4d94-923e-5aae036b7367",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            176.1,
+                            -38.11
+                        ],
+                        [
+                            176.3,
+                            -38.11
+                        ],
+                        [
+                            176.3,
+                            -37.97
+                        ],
+                        [
+                            176.1,
+                            -37.97
+                        ],
+                        [
+                            176.1,
+                            -38.11
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "title": "layer-50765",
+                "abstract": "Linz NZ Terrain Relief (Topo50)",
+                "updated": "2018-02-16T04:14:56.884Z",
+                "authors": [
+                    {
+                        "name": "Alex Kmoch",
+                        "email": "allixender@gmail.com",
+                        "uri": "https://nz-groundwater-hub.org"
+                    }
+                ],
+                "publisher": "GNS Science",
+                "rights": "CC BY SA 4.0 NZ",
+                "links": {
+                    "alternates": [],
+                    "previews": [
+                        {
+                            "href": "https://portal.smart-project.info/fs/images/nz_m.png",
+                            "type": "image/png",
+                            "rel": "icon"
+                        },
+                        {
+                            "href": "https://data.linz.govt.nz/services;key=a8fb9bcd52684b7abe14dd4664ce9df9/wms?REQUEST=GetLegendGraphic&VERSION=1.0.0&FORMAT=image/png&WIDTH=20&HEIGHT=20&LAYER=layer-50765",
+                            "type": "image/png",
+                            "rel": "icon"
+                        }
+                    ],
+                    "data": [
+                        {
+                            "href": "https://data.linz.govt.nz/services;key=a8fb9bcd52684b7abe14dd4664ce9df9/wms",
+                            "type": "application/xml",
+                            "title": "Linz NZ Terrain Relief (Topo50):layer-50765"
+                        }
+                    ],
+                    "via": [
+                        {
+                            "href": "https://nz-groundwater-hub.org/context/resource/bd0e464e-ba27-4d94-923e-5aae036b7367",
+                            "rel": "via"
+                        }
+                    ]
+                },
+                "offerings": [
+                    {
+                        "code": "http://www.opengis.net/spec/owc-geojson/1.0/req/wms",
+                        "operations": [
+                            {
+                                "code": "GetCapabilities",
+                                "method": "GET",
+                                "type": "application/xml",
+                                "href": "https://data.linz.govt.nz/services;key=a8fb9bcd52684b7abe14dd4664ce9df9/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities"
+                            },
+                            {
+                                "code": "GetMap",
+                                "method": "GET",
+                                "type": "image/png",
+                                "href": "https://data.linz.govt.nz/services;key=a8fb9bcd52684b7abe14dd4664ce9df9/wms?SERVICE=WMS&VERSION=1.3&REQUEST=GetMap&SRS=EPSG:4326&BBOX=176.1,-38.11,176.3,-37.97&WIDTH=800&HEIGHT=600&LAYERS=layer-50765&FORMAT=image/png&TRANSPARENT=TRUE&EXCEPTIONS=application/vnd.ogc.se_xml"
+                            }
+                        ],
+                        "contents": [],
+                        "styles": []
+                    },
+                    {
+                        "code": "http://www.opengis.net/spec/owc-geojson/1.0/req/csw",
+                        "operations": [
+                            {
+                                "code": "GetCapabilities",
+                                "method": "GET",
+                                "type": "application/xml",
+                                "href": "https://nz-groundwater-hub.org/pycsw/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities"
+                            },
+                            {
+                                "code": "GetRecordById",
+                                "method": "POST",
+                                "type": "application/xml",
+                                "href": "https://portal.smart-project.info/journalcsw/journalcsw?request=GetRecordById&version=2.0.2&service=CSW&elementSetName=full&outputSchema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&Id="
+                            }
+                        ],
+                        "contents": []
+                    }
+                ],
+                "categories": [
+                    {
+                        "scheme": "view-groups",
+                        "term": "awa_add",
+                        "label": "Informative Layers"
+                    }
+                ],
+                "active": false,
+                "folder": "awa_add"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "https://nz-groundwater-hub.org/context/resource/07826ed6-a13a-4739-8157-264a4fd9d317",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            176.1,
+                            -38.11
+                        ],
+                        [
+                            176.3,
+                            -38.11
+                        ],
+                        [
+                            176.3,
+                            -37.97
+                        ],
+                        [
+                            176.1,
+                            -37.97
+                        ],
+                        [
+                            176.1,
+                            -38.11
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "title": "horowhenua_ws:nz-dtm-100x100",
+                "abstract": "NZ DTM 100x100",
+                "updated": "2018-02-16T04:14:56.884Z",
+                "authors": [
+                    {
+                        "name": "Alex Kmoch",
+                        "email": "allixender@gmail.com",
+                        "uri": "https://nz-groundwater-hub.org"
+                    }
+                ],
+                "publisher": "GNS Science",
+                "rights": "CC BY SA 4.0 NZ",
+                "links": {
+                    "alternates": [],
+                    "previews": [
+                        {
+                            "href": "https://portal.smart-project.info/fs/images/nz_m.png",
+                            "type": "image/png",
+                            "rel": "icon"
+                        },
+                        {
+                            "href": "https://portal.smart-project.info/geoserver/wms?REQUEST=GetLegendGraphic&VERSION=1.0.0&FORMAT=image/png&WIDTH=20&HEIGHT=20&LAYER=horowhenua_ws:nz-dtm-100x100",
+                            "type": "image/png",
+                            "rel": "icon"
+                        }
+                    ],
+                    "data": [
+                        {
+                            "href": "https://portal.smart-project.info/geoserver/wms",
+                            "type": "application/xml",
+                            "title": "NZ DTM 100x100:horowhenua_ws:nz-dtm-100x100"
+                        }
+                    ],
+                    "via": [
+                        {
+                            "href": "https://nz-groundwater-hub.org/context/resource/07826ed6-a13a-4739-8157-264a4fd9d317",
+                            "rel": "via"
+                        }
+                    ]
+                },
+                "offerings": [
+                    {
+                        "code": "http://www.opengis.net/spec/owc-geojson/1.0/req/wms",
+                        "operations": [
+                            {
+                                "code": "GetCapabilities",
+                                "method": "GET",
+                                "type": "application/xml",
+                                "href": "https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities"
+                            },
+                            {
+                                "code": "GetMap",
+                                "method": "GET",
+                                "type": "image/png",
+                                "href": "https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3&REQUEST=GetMap&SRS=EPSG:4326&BBOX=176.1,-38.11,176.3,-37.97&WIDTH=800&HEIGHT=600&LAYERS=horowhenua_ws:nz-dtm-100x100&FORMAT=image/png&TRANSPARENT=TRUE&EXCEPTIONS=application/vnd.ogc.se_xml"
+                            }
+                        ],
+                        "contents": [],
+                        "styles": []
+                    },
+                    {
+                        "code": "http://www.opengis.net/spec/owc-geojson/1.0/req/csw",
+                        "operations": [
+                            {
+                                "code": "GetCapabilities",
+                                "method": "GET",
+                                "type": "application/xml",
+                                "href": "https://nz-groundwater-hub.org/pycsw/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities"
+                            },
+                            {
+                                "code": "GetRecordById",
+                                "method": "POST",
+                                "type": "application/xml",
+                                "href": "https://portal.smart-project.info/journalcsw/journalcsw?request=GetRecordById&version=2.0.2&service=CSW&elementSetName=full&outputSchema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&Id="
+                            }
+                        ],
+                        "contents": []
+                    }
+                ],
+                "categories": [
+                    {
+                        "scheme": "view-groups",
+                        "term": "awa_add",
+                        "label": "Informative Layers"
+                    }
+                ],
+                "active": false,
+                "folder": "awa_add"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "https://nz-groundwater-hub.org/context/resource/bbb60544-e857-451f-a755-c597747b95b5",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            176.1,
+                            -38.11
+                        ],
+                        [
+                            176.3,
+                            -38.11
+                        ],
+                        [
+                            176.3,
+                            -37.97
+                        ],
+                        [
+                            176.1,
+                            -37.97
+                        ],
+                        [
+                            176.1,
+                            -38.11
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "title": "gns:NZL_GNS_1M_Lithostratigraphy",
+                "abstract": "NZ GNS QMAP",
+                "updated": "2018-02-16T04:14:56.884Z",
+                "authors": [
+                    {
+                        "name": "Alex Kmoch",
+                        "email": "allixender@gmail.com",
+                        "uri": "https://nz-groundwater-hub.org"
+                    }
+                ],
+                "publisher": "GNS Science",
+                "rights": "CC BY SA 4.0 NZ",
+                "links": {
+                    "alternates": [],
+                    "previews": [
+                        {
+                            "href": "https://portal.smart-project.info/fs/images/nz_m.png",
+                            "type": "image/png",
+                            "rel": "icon"
+                        },
+                        {
+                            "href": "https://maps.gns.cri.nz/geology/wms?REQUEST=GetLegendGraphic&VERSION=1.0.0&FORMAT=image/png&WIDTH=20&HEIGHT=20&LAYER=gns:NZL_GNS_1M_Lithostratigraphy",
+                            "type": "image/png",
+                            "rel": "icon"
+                        }
+                    ],
+                    "data": [
+                        {
+                            "href": "https://maps.gns.cri.nz/geology/wms",
+                            "type": "application/xml",
+                            "title": "NZ GNS QMAP:gns:NZL_GNS_1M_Lithostratigraphy"
+                        }
+                    ],
+                    "via": [
+                        {
+                            "href": "https://nz-groundwater-hub.org/context/resource/bbb60544-e857-451f-a755-c597747b95b5",
+                            "rel": "via"
+                        }
+                    ]
+                },
+                "offerings": [
+                    {
+                        "code": "http://www.opengis.net/spec/owc-geojson/1.0/req/wms",
+                        "operations": [
+                            {
+                                "code": "GetCapabilities",
+                                "method": "GET",
+                                "type": "application/xml",
+                                "href": "https://maps.gns.cri.nz/geology/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities"
+                            },
+                            {
+                                "code": "GetMap",
+                                "method": "GET",
+                                "type": "image/png",
+                                "href": "https://maps.gns.cri.nz/geology/wms?SERVICE=WMS&VERSION=1.3&REQUEST=GetMap&SRS=EPSG:4326&BBOX=176.1,-38.11,176.3,-37.97&WIDTH=800&HEIGHT=600&LAYERS=gns:NZL_GNS_1M_Lithostratigraphy&FORMAT=image/png&TRANSPARENT=TRUE&EXCEPTIONS=application/vnd.ogc.se_xml"
+                            }
+                        ],
+                        "contents": [],
+                        "styles": []
+                    },
+                    {
+                        "code": "http://www.opengis.net/spec/owc-geojson/1.0/req/csw",
+                        "operations": [
+                            {
+                                "code": "GetCapabilities",
+                                "method": "GET",
+                                "type": "application/xml",
+                                "href": "https://nz-groundwater-hub.org/pycsw/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities"
+                            },
+                            {
+                                "code": "GetRecordById",
+                                "method": "POST",
+                                "type": "application/xml",
+                                "href": "https://portal.smart-project.info/journalcsw/journalcsw?request=GetRecordById&version=2.0.2&service=CSW&elementSetName=full&outputSchema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&Id="
+                            }
+                        ],
+                        "contents": []
+                    }
+                ],
+                "categories": [
+                    {
+                        "scheme": "view-groups",
+                        "term": "awa_add",
+                        "label": "Informative Layers"
+                    }
+                ],
+                "active": false,
+                "folder": "awa_add"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "https://nz-groundwater-hub.org/context/resource/7c9b5784-d32d-48b5-a0c2-b69d898fc2d7",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            176.1,
+                            -38.11
+                        ],
+                        [
+                            176.3,
+                            -38.11
+                        ],
+                        [
+                            176.3,
+                            -37.97
+                        ],
+                        [
+                            176.1,
+                            -37.97
+                        ],
+                        [
+                            176.1,
+                            -38.11
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "title": "horowhenua_ws:nz_aquifers",
+                "abstract": "NZ Aquifers (White 2001)",
+                "updated": "2018-02-16T04:14:56.884Z",
+                "authors": [
+                    {
+                        "name": "Alex Kmoch",
+                        "email": "allixender@gmail.com",
+                        "uri": "https://nz-groundwater-hub.org"
+                    }
+                ],
+                "publisher": "GNS Science",
+                "rights": "CC BY SA 4.0 NZ",
+                "links": {
+                    "alternates": [],
+                    "previews": [
+                        {
+                            "href": "https://portal.smart-project.info/fs/images/nz_m.png",
+                            "type": "image/png",
+                            "rel": "icon"
+                        },
+                        {
+                            "href": "https://portal.smart-project.info/geoserver/wms?REQUEST=GetLegendGraphic&VERSION=1.0.0&FORMAT=image/png&WIDTH=20&HEIGHT=20&LAYER=horowhenua_ws:nz_aquifers",
+                            "type": "image/png",
+                            "rel": "icon"
+                        }
+                    ],
+                    "data": [
+                        {
+                            "href": "https://portal.smart-project.info/geoserver/wms",
+                            "type": "application/xml",
+                            "title": "NZ Aquifers (White 2001):horowhenua_ws:nz_aquifers"
+                        }
+                    ],
+                    "via": [
+                        {
+                            "href": "https://nz-groundwater-hub.org/context/resource/7c9b5784-d32d-48b5-a0c2-b69d898fc2d7",
+                            "rel": "via"
+                        }
+                    ]
+                },
+                "offerings": [
+                    {
+                        "code": "http://www.opengis.net/spec/owc-geojson/1.0/req/wms",
+                        "operations": [
+                            {
+                                "code": "GetCapabilities",
+                                "method": "GET",
+                                "type": "application/xml",
+                                "href": "https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities"
+                            },
+                            {
+                                "code": "GetMap",
+                                "method": "GET",
+                                "type": "image/png",
+                                "href": "https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3&REQUEST=GetMap&SRS=EPSG:4326&BBOX=176.1,-38.11,176.3,-37.97&WIDTH=800&HEIGHT=600&LAYERS=horowhenua_ws:nz_aquifers&FORMAT=image/png&TRANSPARENT=TRUE&EXCEPTIONS=application/vnd.ogc.se_xml"
+                            }
+                        ],
+                        "contents": [],
+                        "styles": []
+                    },
+                    {
+                        "code": "http://www.opengis.net/spec/owc-geojson/1.0/req/csw",
+                        "operations": [
+                            {
+                                "code": "GetCapabilities",
+                                "method": "GET",
+                                "type": "application/xml",
+                                "href": "https://nz-groundwater-hub.org/pycsw/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities"
+                            },
+                            {
+                                "code": "GetRecordById",
+                                "method": "POST",
+                                "type": "application/xml",
+                                "href": "https://portal.smart-project.info/journalcsw/journalcsw?request=GetRecordById&version=2.0.2&service=CSW&elementSetName=full&outputSchema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&Id="
+                            }
+                        ],
+                        "contents": []
+                    }
+                ],
+                "categories": [
+                    {
+                        "scheme": "view-groups",
+                        "term": "awa_add",
+                        "label": "Informative Layers"
+                    }
+                ],
+                "active": false,
+                "folder": "awa_add"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "https://nz-groundwater-hub.org/context/resource/82ddfa5e-7eb0-4ddc-a5ae-396b164e9cc1",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            176.1,
+                            -38.11
+                        ],
+                        [
+                            176.3,
+                            -38.11
+                        ],
+                        [
+                            176.3,
+                            -37.97
+                        ],
+                        [
+                            176.1,
+                            -37.97
+                        ],
+                        [
+                            176.1,
+                            -38.11
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "title": "horowhenua_ws:rotorua_model",
+                "abstract": "Rotorua geological model (GNS)",
+                "updated": "2018-02-16T04:14:56.884Z",
+                "authors": [
+                    {
+                        "name": "Alex Kmoch",
+                        "email": "allixender@gmail.com",
+                        "uri": "https://nz-groundwater-hub.org"
+                    }
+                ],
+                "publisher": "GNS Science",
+                "rights": "CC BY SA 4.0 NZ",
+                "links": {
+                    "alternates": [],
+                    "previews": [
+                        {
+                            "href": "https://portal.smart-project.info/fs/images/nz_m.png",
+                            "type": "image/png",
+                            "rel": "icon"
+                        },
+                        {
+                            "href": "https://portal.smart-project.info/geoserver/wms?REQUEST=GetLegendGraphic&VERSION=1.0.0&FORMAT=image/png&WIDTH=20&HEIGHT=20&LAYER=horowhenua_ws:rotorua_model",
+                            "type": "image/png",
+                            "rel": "icon"
+                        }
+                    ],
+                    "data": [
+                        {
+                            "href": "https://portal.smart-project.info/geoserver/wms",
+                            "type": "application/xml",
+                            "title": "Rotorua geological model (GNS):horowhenua_ws:rotorua_model"
+                        }
+                    ],
+                    "via": [
+                        {
+                            "href": "https://nz-groundwater-hub.org/context/resource/82ddfa5e-7eb0-4ddc-a5ae-396b164e9cc1",
+                            "rel": "via"
+                        }
+                    ]
+                },
+                "offerings": [
+                    {
+                        "code": "http://www.opengis.net/spec/owc-geojson/1.0/req/wms",
+                        "operations": [
+                            {
+                                "code": "GetCapabilities",
+                                "method": "GET",
+                                "type": "application/xml",
+                                "href": "https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities"
+                            },
+                            {
+                                "code": "GetMap",
+                                "method": "GET",
+                                "type": "image/png",
+                                "href": "https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3&REQUEST=GetMap&SRS=EPSG:4326&BBOX=176.1,-38.11,176.3,-37.97&WIDTH=800&HEIGHT=600&LAYERS=horowhenua_ws:rotorua_model&FORMAT=image/png&TRANSPARENT=TRUE&EXCEPTIONS=application/vnd.ogc.se_xml"
+                            }
+                        ],
+                        "contents": [],
+                        "styles": []
+                    },
+                    {
+                        "code": "http://www.opengis.net/spec/owc-geojson/1.0/req/csw",
+                        "operations": [
+                            {
+                                "code": "GetCapabilities",
+                                "method": "GET",
+                                "type": "application/xml",
+                                "href": "https://nz-groundwater-hub.org/pycsw/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities"
+                            },
+                            {
+                                "code": "GetRecordById",
+                                "method": "POST",
+                                "type": "application/xml",
+                                "href": "https://portal.smart-project.info/journalcsw/journalcsw?request=GetRecordById&version=2.0.2&service=CSW&elementSetName=full&outputSchema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&Id="
+                            }
+                        ],
+                        "contents": []
+                    }
+                ],
+                "categories": [
+                    {
+                        "scheme": "view-groups",
+                        "term": "awa_add",
+                        "label": "Informative Layers"
+                    }
+                ],
+                "active": false,
+                "folder": "awa_add"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "https://nz-groundwater-hub.org/context/resource/7814b05a-db3b-436f-bc80-e6a264c36c52",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            176.1,
+                            -38.11
+                        ],
+                        [
+                            176.3,
+                            -38.11
+                        ],
+                        [
+                            176.3,
+                            -37.97
+                        ],
+                        [
+                            176.1,
+                            -37.97
+                        ],
+                        [
+                            176.1,
+                            -38.11
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "title": "horowhenua_ws:ngmp-locations",
+                "abstract": "NGMP Sites",
+                "updated": "2018-02-16T04:14:56.884Z",
+                "authors": [
+                    {
+                        "name": "Alex Kmoch",
+                        "email": "allixender@gmail.com",
+                        "uri": "https://nz-groundwater-hub.org"
+                    }
+                ],
+                "publisher": "GNS Science",
+                "rights": "CC BY SA 4.0 NZ",
+                "links": {
+                    "alternates": [],
+                    "previews": [
+                        {
+                            "href": "https://portal.smart-project.info/fs/images/nz_m.png",
+                            "type": "image/png",
+                            "rel": "icon"
+                        },
+                        {
+                            "href": "https://portal.smart-project.info/geoserver/wms?REQUEST=GetLegendGraphic&VERSION=1.0.0&FORMAT=image/png&WIDTH=20&HEIGHT=20&LAYER=horowhenua_ws:ngmp-locations",
+                            "type": "image/png",
+                            "rel": "icon"
+                        }
+                    ],
+                    "data": [
+                        {
+                            "href": "https://portal.smart-project.info/geoserver/wms",
+                            "type": "application/xml",
+                            "title": "NGMP Sites:horowhenua_ws:ngmp-locations"
+                        }
+                    ],
+                    "via": [
+                        {
+                            "href": "https://nz-groundwater-hub.org/context/resource/7814b05a-db3b-436f-bc80-e6a264c36c52",
+                            "rel": "via"
+                        }
+                    ]
+                },
+                "offerings": [
+                    {
+                        "code": "http://www.opengis.net/spec/owc-geojson/1.0/req/wms",
+                        "operations": [
+                            {
+                                "code": "GetCapabilities",
+                                "method": "GET",
+                                "type": "application/xml",
+                                "href": "https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities"
+                            },
+                            {
+                                "code": "GetMap",
+                                "method": "GET",
+                                "type": "image/png",
+                                "href": "https://portal.smart-project.info/geoserver/wms?SERVICE=WMS&VERSION=1.3&REQUEST=GetMap&SRS=EPSG:4326&BBOX=176.1,-38.11,176.3,-37.97&WIDTH=800&HEIGHT=600&LAYERS=horowhenua_ws:ngmp-locations&FORMAT=image/png&TRANSPARENT=TRUE&EXCEPTIONS=application/vnd.ogc.se_xml"
+                            }
+                        ],
+                        "contents": [],
+                        "styles": []
+                    },
+                    {
+                        "code": "http://www.opengis.net/spec/owc-geojson/1.0/req/csw",
+                        "operations": [
+                            {
+                                "code": "GetCapabilities",
+                                "method": "GET",
+                                "type": "application/xml",
+                                "href": "https://nz-groundwater-hub.org/pycsw/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities"
+                            },
+                            {
+                                "code": "GetRecordById",
+                                "method": "POST",
+                                "type": "application/xml",
+                                "href": "https://portal.smart-project.info/journalcsw/journalcsw?request=GetRecordById&version=2.0.2&service=CSW&elementSetName=full&outputSchema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&Id="
+                            }
+                        ],
+                        "contents": []
+                    }
+                ],
+                "categories": [
+                    {
+                        "scheme": "view-groups",
+                        "term": "awa_add",
+                        "label": "Informative Layers"
+                    }
+                ],
+                "active": true,
+                "folder": "awa_add"
+            }
+        }
+    ]
+}
